@@ -1,0 +1,222 @@
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<style>
+    .row {
+        min-height:24px;
+    }
+    span.label {
+        min-width: 240px;
+        display: inline-block;
+    }
+    #log {
+        font-family: monospace;
+        padding: 12px;
+        border: 1px solid #ccc;
+        background-color: #fffce8;
+        margin-top: 1em;
+    }
+</style>
+</head>
+<body>
+<script>
+
+class DoorParams {
+    constructor(args)
+    {
+        this.distDone = 0.0;
+        this.maxDist = 0.0;
+        this.speed = 0.0;
+        this.accel = 0.0;
+        this.decel = 0.0;
+        this.maxSpeed = 0.0;
+        this.openFrames = 0;
+        this.openDone = false;
+        this.toMaxSpeedFrames = 0;
+        this.toMaxSpeedDone = false;
+       
+        if (args) {
+            if (args.hasOwnProperty("distDone")) {
+                this.distDone = parseInt(""+args.distDone);
+            }
+            if (args.hasOwnProperty("maxDist")) {
+                this.maxDist = parseInt(""+args.maxDist);
+               
+                this.maxDist /= 65536.0;
+            }
+            if (args.hasOwnProperty("speed")) {
+                this.speed = parseInt(""+args.speed);
+            }
+            if (args.hasOwnProperty("accel")) {
+                this.accel = parseInt(""+args.accel);
+               
+                this.accel /= 65536.0;
+            }
+            if (args.hasOwnProperty("decel")) {
+                this.decel = parseInt(""+args.decel);
+               
+                this.decel /= 65536.0;
+            }
+            if (args.hasOwnProperty("maxSpeed")) {
+                this.maxSpeed = parseInt(""+args.maxSpeed);
+               
+                this.maxSpeed /= 65536.0;
+            }
+        }
+    }
+   
+    // thanks Ryan
+    applySpeed = function ()
+    {
+        var localSpeed = this.speed;
+       
+        var limit = localSpeed * localSpeed * 0.5 / this.decel;
+        var distRemaining = this.maxDist - this.distDone;
+       
+        if (distRemaining > 0.0) {
+            if (localSpeed > 0.0 && distRemaining <= limit) {
+                // Slow down for end
+                localSpeed -= this.decel;
+
+                if (localSpeed < this.decel) {
+                    localSpeed = this.decel;
+                }
+            } else if (localSpeed < this.maxSpeed) {
+                // Accelerate
+                if (localSpeed < 0.0) {
+                    localSpeed += this.decel;
+                } else {
+                    localSpeed += this.accel;
+                }
+
+                if (localSpeed >= this.maxSpeed) {
+                    localSpeed = this.maxSpeed;
+                    this.toMaxSpeedDone = true;
+                }
+               
+                if (!this.toMaxSpeedDone) {
+                    this.toMaxSpeedFrames++;
+                }
+            }
+
+            if (localSpeed >= distRemaining) {
+                this.distDone = this.maxDist;
+                this.openDone = true;
+            }
+
+            this.distDone += localSpeed;
+           
+            if (!this.openDone) {
+                this.openFrames++;
+            }
+        } else {
+            if (localSpeed < 0.0 && -distRemaining <= limit) {
+                localSpeed += this.decel;
+
+                if (localSpeed > -this.decel) {
+                    localSpeed = -this.decel;
+                }
+            } else if (localSpeed > -this.maxSpeed) {
+                if (localSpeed > 0.0) {
+                    localSpeed -= this.decel;
+                } else {
+                    localSpeed -= this.accel;
+                }
+
+                if (localSpeed < -this.maxSpeed) {
+                    localSpeed = -this.maxSpeed;
+                }
+            }
+
+            if (localSpeed <= distRemaining) {
+                this.distDone = this.maxDist;
+                //break;
+            }
+
+            this.distDone += localSpeed;
+        }
+       
+        this.speed = localSpeed;
+    }
+}
+
+// depot door:
+// var dp = new DoorParams({maxDist:"e666",accel:"a",decel:"a",maxSpeed:"1eb"});
+
+function go() {
+    var maxDist = parseInt(document.getElementById("max-distance").value);
+    if (!isFinite(maxDist)) {
+        log("invalid max distance");
+        return;
+    }
+    var accel = parseInt(document.getElementById("accel").value);
+    if (!isFinite(accel)) {
+        log("invalid acceleration");
+        return;
+    }
+    var decel = parseInt(document.getElementById("decel").value);
+    if (!isFinite(decel)) {
+        log("invalid deceleration");
+        return;
+    }
+    var maxSpeed = parseInt(document.getElementById("max-speed").value);
+    if (!isFinite(maxSpeed)) {
+        log("invalid max speed");
+        return;
+    }
+   
+    document.getElementById("result-distance-done").value = "";
+    document.getElementById("result-speed").value = "";
+    document.getElementById("result-max-speed-frames").value = "";
+    document.getElementById("result-open-frames").value = "";
+    log("");
+   
+    var dp = new DoorParams({maxDist:maxDist,accel:accel,decel:decel,maxSpeed:maxSpeed});
+   
+    for (var i=0; i<2000; i++) {
+        dp.applySpeed();
+        if (dp.openDone && dp.toMaxSpeedDone) {
+            break;
+        }
+    }
+   
+    if (!(dp.openDone && dp.toMaxSpeedDone)) {
+        log("Max iterations exceeded, could not find stopping condition");
+        return;
+    }
+   
+    document.getElementById("result-distance-done").value = ""+dp.distDone;
+    document.getElementById("result-speed").value = ""+dp.speed;
+    document.getElementById("result-max-speed-frames").value = ""+dp.toMaxSpeedFrames;
+    document.getElementById("result-open-frames").value = ""+dp.openFrames;
+}
+
+function log(text) {
+    document.getElementById("log").style.display = "";
+    document.getElementById("log").innerHTML = text;
+}
+
+</script>
+
+<div class="row">Door setup:</div>
+<div class="row"><label><span class="label">Max distance</span> <input id="max-distance" type="textbox" value="0" /></label></div>
+<div class="row"><label><span class="label">Acceleration</span> <input id="accel" type="textbox" value="0" /></label></div>
+<div class="row"><label><span class="label">Deceleration</span> <input id="decel" type="textbox" value="0" /></label></div>
+<div class="row"><label><span class="label">Max speed</span> <input id="max-speed" type="textbox" value="0" /></label></div>
+
+<div class="row"></div>
+
+<div class="row"><input type="button" value="Go" onclick="go();"/></div>
+
+<div class="row"></div>
+
+<div class="row">Results:</div>
+<div class="row"><label><span class="label">Distance done</span> <input id="result-distance-done" type="textbox" readonly /></label></div>
+<div class="row"><label><span class="label">Speed</span> <input id="result-speed" type="textbox" readonly /></label></div>
+<div class="row"><label><span class="label">Number of frames until max speed</span> <input id="result-max-speed-frames" type="textbox" readonly /></label></div>
+<div class="row"><label><span class="label">Number of frames until open</span> <input id="result-open-frames" type="textbox" readonly /></label></div>
+
+<div class="row"><div id="log" style="display:none;"></div></div>
+</body>
+</html>
