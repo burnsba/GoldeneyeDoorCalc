@@ -45,6 +45,7 @@ namespace GoldeneyeDoorCalc
         public bool OpenDone { get; set; } = false;
         public int ToMaxSpeedFrames { get; set; } = 0;
         public bool ToMaxSpeedDone { get; set; } = false;
+        public int StartDecelFrame = 0;
 
         public bool? PositionCalcValid { get; set; } = null;
 
@@ -79,6 +80,22 @@ namespace GoldeneyeDoorCalc
             return Math.Round(frameSeconds, 2);
         }
 
+        public decimal GetUntilDecelFrameSeconds(SystemVersion version)
+        {
+            decimal frameSeconds = 0;
+
+            if (version == SystemVersion.PAL)
+            {
+                frameSeconds = StartDecelFrame / 50.0m;
+            }
+            else
+            {
+                frameSeconds = StartDecelFrame / 60.0m;
+            }
+
+            return Math.Round(frameSeconds, 2);
+        }
+
         public decimal GetToMaxSpeedFrameSeconds(SystemVersion version)
         {
             decimal toMaxSpeedFrameSeconds = 0;
@@ -106,6 +123,11 @@ namespace GoldeneyeDoorCalc
             {
                 if (localSpeed > 0.0 && distRemaining <= limit)
                 {
+                    if (StartDecelFrame == 0)
+                    {
+                        StartDecelFrame = OpenFrames;
+                    }
+
                     // Slow down for end
                     localSpeed -= Deceleration;
 
@@ -230,8 +252,10 @@ namespace GoldeneyeDoorCalc
             {
                 decimal frameSeconds = GetOpenFrameTimeSeconds(version);
                 decimal toMaxSpeedFrameSeconds = GetToMaxSpeedFrameSeconds(version);
+                decimal untilDecFrameSeconds = GetUntilDecelFrameSeconds(version);
 
                 sb.Append($"{nameof(ToMaxSpeedFrames)}={ToMaxSpeedFrames}={toMaxSpeedFrameSeconds} s, ");
+                sb.Append($"{nameof(StartDecelFrame)}={StartDecelFrame}={untilDecFrameSeconds} s, ");
                 sb.Append($"{nameof(OpenFrames)}={OpenFrames}={frameSeconds} s");
             }
             else

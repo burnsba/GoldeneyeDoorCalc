@@ -2,80 +2,80 @@
 
 archives (NTSC)
 
-Preset=0x87, obj=0x1d0bec, pos=(-574, -1285), ToMaxSpeedFrames=16=0.27 s, OpenFrames=105=1.75 s
-Preset=0x77, obj=0x1d20c8, pos=(-1632, -402), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x78, obj=0x1d21c8, pos=(-1257, -1215), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x79, obj=0x1d22c8, pos=(-634, -561), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7a, obj=0x1d23c8, pos=(-250, -1490), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7b, obj=0x1d24c8, pos=(-1448, -1490), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x12b, obj=0x1d25c8, pos=(-250, -1477), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x12c, obj=0x1d26c8, pos=(-1448, -1477), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x12d, obj=0x1d27c8, pos=(-1852, 71), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x12e, obj=0x1d28c8, pos=(-250, 851), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x12f, obj=0x1d29c8, pos=(-363, 1268), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x130, obj=0x1d2ac8, pos=(-672, 1268), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7c, obj=0x1d2bc8, pos=(-2416, -3883), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7d, obj=0x1d2cc8, pos=(-2529, -3883), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7e, obj=0x1d2dc8, pos=(-2644, -3883), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7f, obj=0x1d2ec8, pos=(-2758, -3883), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x81, obj=0x1d2fc8, pos=(-2715, -2943), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x82, obj=0x1d30c8, pos=(-2785, -3033), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x80, obj=0x1d31c8, pos=(-2643, -2850), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xc5, obj=0x1d32c8, pos=(-2603, -3882), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xc6, obj=0x1d33c8, pos=(-2744, -3882), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xc7, obj=0x1d34c8, pos=(-2722, -2960), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xc8, obj=0x1d35c8, pos=(-2786, -3040), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xc9, obj=0x1d36c8, pos=(-2821, -3324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x83, obj=0x1d37c8, pos=(-1508, -2714), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x84, obj=0x1d38c8, pos=(-454, -1859), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x85, obj=0x1d39c8, pos=(-386, -1559), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xca, obj=0x1d3ac8, pos=(-1504, -3803), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xcb, obj=0x1d3bc8, pos=(-1504, -3686), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xcc, obj=0x1d3cc8, pos=(-1503, -2089), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xcd, obj=0x1d3dc8, pos=(-1504, -1983), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x131, obj=0x1d3ec8, pos=(-363, -1296), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x132, obj=0x1d3fc8, pos=(-1333, -1296), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x133, obj=0x1d40c8, pos=(-399, 1349), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x134, obj=0x1d41c8, pos=(-1447, 1262), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
+Preset=0x87, obj=0x1d0bec, pos=(-574, -1285), ToMaxSpeedFrames=16=0.27 s, StartDecelFrame=90=1.5 s, OpenFrames=105=1.75 s
+Preset=0x77, obj=0x1d20c8, pos=(-1632, -402), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x78, obj=0x1d21c8, pos=(-1257, -1215), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x79, obj=0x1d22c8, pos=(-634, -561), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7a, obj=0x1d23c8, pos=(-250, -1490), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7b, obj=0x1d24c8, pos=(-1448, -1490), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x12b, obj=0x1d25c8, pos=(-250, -1477), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x12c, obj=0x1d26c8, pos=(-1448, -1477), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x12d, obj=0x1d27c8, pos=(-1852, 71), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x12e, obj=0x1d28c8, pos=(-250, 851), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x12f, obj=0x1d29c8, pos=(-363, 1268), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x130, obj=0x1d2ac8, pos=(-672, 1268), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7c, obj=0x1d2bc8, pos=(-2416, -3883), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7d, obj=0x1d2cc8, pos=(-2529, -3883), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7e, obj=0x1d2dc8, pos=(-2644, -3883), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7f, obj=0x1d2ec8, pos=(-2758, -3883), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x81, obj=0x1d2fc8, pos=(-2715, -2943), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x82, obj=0x1d30c8, pos=(-2785, -3033), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x80, obj=0x1d31c8, pos=(-2643, -2850), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xc5, obj=0x1d32c8, pos=(-2603, -3882), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xc6, obj=0x1d33c8, pos=(-2744, -3882), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xc7, obj=0x1d34c8, pos=(-2722, -2960), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xc8, obj=0x1d35c8, pos=(-2786, -3040), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xc9, obj=0x1d36c8, pos=(-2821, -3324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x83, obj=0x1d37c8, pos=(-1508, -2714), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x84, obj=0x1d38c8, pos=(-454, -1859), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x85, obj=0x1d39c8, pos=(-386, -1559), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xca, obj=0x1d3ac8, pos=(-1504, -3803), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xcb, obj=0x1d3bc8, pos=(-1504, -3686), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xcc, obj=0x1d3cc8, pos=(-1503, -2089), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xcd, obj=0x1d3dc8, pos=(-1504, -1983), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x131, obj=0x1d3ec8, pos=(-363, -1296), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x132, obj=0x1d3fc8, pos=(-1333, -1296), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x133, obj=0x1d40c8, pos=(-399, 1349), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x134, obj=0x1d41c8, pos=(-1447, 1262), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
 
 
 archives (PAL)
 
-Preset=0x87, obj=0x1b7f7c, pos=(-574, -1285), ToMaxSpeedFrames=16=0.32 s, OpenFrames=90=1.8 s
-Preset=0x77, obj=0x1b9458, pos=(-1632, -402), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x78, obj=0x1b9558, pos=(-1257, -1215), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x79, obj=0x1b9658, pos=(-634, -561), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7a, obj=0x1b9758, pos=(-250, -1490), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7b, obj=0x1b9858, pos=(-1448, -1490), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x12b, obj=0x1b9958, pos=(-250, -1477), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x12c, obj=0x1b9a58, pos=(-1448, -1477), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x12d, obj=0x1b9b58, pos=(-1852, 71), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x12e, obj=0x1b9c58, pos=(-250, 851), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x12f, obj=0x1b9d58, pos=(-363, 1268), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x130, obj=0x1b9e58, pos=(-672, 1268), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7c, obj=0x1b9f58, pos=(-2416, -3883), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7d, obj=0x1ba058, pos=(-2529, -3883), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7e, obj=0x1ba158, pos=(-2644, -3883), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7f, obj=0x1ba258, pos=(-2758, -3883), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x81, obj=0x1ba358, pos=(-2715, -2943), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x82, obj=0x1ba458, pos=(-2785, -3033), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x80, obj=0x1ba558, pos=(-2643, -2850), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xc5, obj=0x1ba658, pos=(-2603, -3882), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xc6, obj=0x1ba758, pos=(-2744, -3882), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xc7, obj=0x1ba858, pos=(-2722, -2960), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xc8, obj=0x1ba958, pos=(-2786, -3040), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xc9, obj=0x1baa58, pos=(-2821, -3324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x83, obj=0x1bab58, pos=(-1508, -2714), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x84, obj=0x1bac58, pos=(-454, -1859), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x85, obj=0x1bad58, pos=(-386, -1559), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xca, obj=0x1bae58, pos=(-1504, -3803), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xcb, obj=0x1baf58, pos=(-1504, -3686), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xcc, obj=0x1bb058, pos=(-1503, -2089), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xcd, obj=0x1bb158, pos=(-1504, -1983), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x131, obj=0x1bb258, pos=(-363, -1296), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x132, obj=0x1bb358, pos=(-1333, -1296), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x133, obj=0x1bb458, pos=(-399, 1349), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x134, obj=0x1bb558, pos=(-1447, 1262), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
+Preset=0x87, obj=0x1b7f7c, pos=(-574, -1285), ToMaxSpeedFrames=16=0.32 s, StartDecelFrame=75=1.5 s, OpenFrames=90=1.8 s
+Preset=0x77, obj=0x1b9458, pos=(-1632, -402), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x78, obj=0x1b9558, pos=(-1257, -1215), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x79, obj=0x1b9658, pos=(-634, -561), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7a, obj=0x1b9758, pos=(-250, -1490), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7b, obj=0x1b9858, pos=(-1448, -1490), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x12b, obj=0x1b9958, pos=(-250, -1477), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x12c, obj=0x1b9a58, pos=(-1448, -1477), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x12d, obj=0x1b9b58, pos=(-1852, 71), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x12e, obj=0x1b9c58, pos=(-250, 851), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x12f, obj=0x1b9d58, pos=(-363, 1268), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x130, obj=0x1b9e58, pos=(-672, 1268), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7c, obj=0x1b9f58, pos=(-2416, -3883), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7d, obj=0x1ba058, pos=(-2529, -3883), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7e, obj=0x1ba158, pos=(-2644, -3883), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7f, obj=0x1ba258, pos=(-2758, -3883), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x81, obj=0x1ba358, pos=(-2715, -2943), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x82, obj=0x1ba458, pos=(-2785, -3033), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x80, obj=0x1ba558, pos=(-2643, -2850), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xc5, obj=0x1ba658, pos=(-2603, -3882), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xc6, obj=0x1ba758, pos=(-2744, -3882), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xc7, obj=0x1ba858, pos=(-2722, -2960), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xc8, obj=0x1ba958, pos=(-2786, -3040), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xc9, obj=0x1baa58, pos=(-2821, -3324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x83, obj=0x1bab58, pos=(-1508, -2714), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x84, obj=0x1bac58, pos=(-454, -1859), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x85, obj=0x1bad58, pos=(-386, -1559), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xca, obj=0x1bae58, pos=(-1504, -3803), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xcb, obj=0x1baf58, pos=(-1504, -3686), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xcc, obj=0x1bb058, pos=(-1503, -2089), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xcd, obj=0x1bb158, pos=(-1504, -1983), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x131, obj=0x1bb258, pos=(-363, -1296), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x132, obj=0x1bb358, pos=(-1333, -1296), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x133, obj=0x1bb458, pos=(-399, 1349), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x134, obj=0x1bb558, pos=(-1447, 1262), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=105 => 1.75 s NTSC, 1.8 s PAL, delta = 0.05 s
@@ -89,50 +89,50 @@ Min door delta time = 0.02 s
 
 aztec (NTSC)
 
-Preset=0x22, obj=0x1e6ef4, pos=(5440, 0), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x23, obj=0x1e6ff4, pos=(990, 0), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x20, obj=0x1e7104, pos=(-3118, 1045), ToMaxSpeedFrames=39=0.65 s, OpenFrames=1669=27.82 s
-Preset=0x21, obj=0x1e7204, pos=(-2405, 1070), ToMaxSpeedFrames=39=0.65 s, OpenFrames=1669=27.82 s
-Preset=0x25, obj=0x1e7314, pos=(-2778, 1463), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x22, obj=0x1e6ef4, pos=(5440, 0), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x23, obj=0x1e6ff4, pos=(990, 0), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x20, obj=0x1e7104, pos=(-3118, 1045), ToMaxSpeedFrames=39=0.65 s, StartDecelFrame=1638=27.3 s, OpenFrames=1669=27.82 s
+Preset=0x21, obj=0x1e7204, pos=(-2405, 1070), ToMaxSpeedFrames=39=0.65 s, StartDecelFrame=1638=27.3 s, OpenFrames=1669=27.82 s
+Preset=0x25, obj=0x1e7314, pos=(-2778, 1463), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 Preset=0x26, obj=0x1e7414, pos=(-2778, 1463), invalid
-Preset=0x27, obj=0x1e7524, pos=(-2611, 1660), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x28, obj=0x1e7624, pos=(-2611, 1525), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x29, obj=0x1e7724, pos=(-2611, 1389), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x2a, obj=0x1e7824, pos=(-2611, 1253), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x2b, obj=0x1e7924, pos=(-2944, 1253), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x2c, obj=0x1e7a24, pos=(-2944, 1389), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x2d, obj=0x1e7b24, pos=(-2944, 1525), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
-Preset=0x2e, obj=0x1e7c24, pos=(-2944, 1660), ToMaxSpeedFrames=10=0.17 s, OpenFrames=99=1.65 s
+Preset=0x27, obj=0x1e7524, pos=(-2611, 1660), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x28, obj=0x1e7624, pos=(-2611, 1525), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x29, obj=0x1e7724, pos=(-2611, 1389), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x2a, obj=0x1e7824, pos=(-2611, 1253), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x2b, obj=0x1e7924, pos=(-2944, 1253), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x2c, obj=0x1e7a24, pos=(-2944, 1389), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x2d, obj=0x1e7b24, pos=(-2944, 1525), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
+Preset=0x2e, obj=0x1e7c24, pos=(-2944, 1660), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=90=1.5 s, OpenFrames=99=1.65 s
 Preset=0x24, obj=0x1e7d34, pos=(-2778, 2058), invalid
-Preset=0x77, obj=0x1e8124, pos=(-1252, 718), ToMaxSpeedFrames=66=1.1 s, OpenFrames=182=3.03 s
-Preset=0x78, obj=0x1e8224, pos=(-1106, 718), ToMaxSpeedFrames=66=1.1 s, OpenFrames=182=3.03 s
-Preset=0x7b, obj=0x1e85f4, pos=(-1440, 1), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x7e, obj=0x1e86f4, pos=(-1440, 192), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x7a, obj=0x1e87f4, pos=(-1440, -191), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x77, obj=0x1e8124, pos=(-1252, 718), ToMaxSpeedFrames=66=1.1 s, StartDecelFrame=123=2.05 s, OpenFrames=182=3.03 s
+Preset=0x78, obj=0x1e8224, pos=(-1106, 718), ToMaxSpeedFrames=66=1.1 s, StartDecelFrame=123=2.05 s, OpenFrames=182=3.03 s
+Preset=0x7b, obj=0x1e85f4, pos=(-1440, 1), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x7e, obj=0x1e86f4, pos=(-1440, 192), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x7a, obj=0x1e87f4, pos=(-1440, -191), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 
 
 aztec (PAL)
 
-Preset=0x22, obj=0x1ce284, pos=(5440, 0), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x23, obj=0x1ce384, pos=(990, 0), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x20, obj=0x1ce494, pos=(-3118, 1045), ToMaxSpeedFrames=39=0.78 s, OpenFrames=1397=27.94 s
-Preset=0x21, obj=0x1ce594, pos=(-2405, 1070), ToMaxSpeedFrames=39=0.78 s, OpenFrames=1397=27.94 s
-Preset=0x25, obj=0x1ce6a4, pos=(-2778, 1463), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x22, obj=0x1ce284, pos=(5440, 0), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x23, obj=0x1ce384, pos=(990, 0), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x20, obj=0x1ce494, pos=(-3118, 1045), ToMaxSpeedFrames=39=0.78 s, StartDecelFrame=1365=27.3 s, OpenFrames=1397=27.94 s
+Preset=0x21, obj=0x1ce594, pos=(-2405, 1070), ToMaxSpeedFrames=39=0.78 s, StartDecelFrame=1365=27.3 s, OpenFrames=1397=27.94 s
+Preset=0x25, obj=0x1ce6a4, pos=(-2778, 1463), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 Preset=0x26, obj=0x1ce7a4, pos=(-2778, 1463), invalid
-Preset=0x27, obj=0x1ce8b4, pos=(-2611, 1660), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x28, obj=0x1ce9b4, pos=(-2611, 1525), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x29, obj=0x1ceab4, pos=(-2611, 1389), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x2a, obj=0x1cebb4, pos=(-2611, 1253), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x2b, obj=0x1cecb4, pos=(-2944, 1253), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x2c, obj=0x1cedb4, pos=(-2944, 1389), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x2d, obj=0x1ceeb4, pos=(-2944, 1525), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
-Preset=0x2e, obj=0x1cefb4, pos=(-2944, 1660), ToMaxSpeedFrames=10=0.2 s, OpenFrames=84=1.68 s
+Preset=0x27, obj=0x1ce8b4, pos=(-2611, 1660), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x28, obj=0x1ce9b4, pos=(-2611, 1525), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x29, obj=0x1ceab4, pos=(-2611, 1389), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x2a, obj=0x1cebb4, pos=(-2611, 1253), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x2b, obj=0x1cecb4, pos=(-2944, 1253), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x2c, obj=0x1cedb4, pos=(-2944, 1389), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x2d, obj=0x1ceeb4, pos=(-2944, 1525), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
+Preset=0x2e, obj=0x1cefb4, pos=(-2944, 1660), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=75=1.5 s, OpenFrames=84=1.68 s
 Preset=0x24, obj=0x1cf0c4, pos=(-2778, 2058), invalid
-Preset=0x77, obj=0x1cf4b4, pos=(-1252, 718), ToMaxSpeedFrames=66=1.32 s, OpenFrames=162=3.24 s
-Preset=0x78, obj=0x1cf5b4, pos=(-1106, 718), ToMaxSpeedFrames=66=1.32 s, OpenFrames=162=3.24 s
-Preset=0x7b, obj=0x1cf984, pos=(-1440, 1), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x7e, obj=0x1cfa84, pos=(-1440, 192), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x7a, obj=0x1cfb84, pos=(-1440, -191), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x77, obj=0x1cf4b4, pos=(-1252, 718), ToMaxSpeedFrames=66=1.32 s, StartDecelFrame=103=2.06 s, OpenFrames=162=3.24 s
+Preset=0x78, obj=0x1cf5b4, pos=(-1106, 718), ToMaxSpeedFrames=66=1.32 s, StartDecelFrame=103=2.06 s, OpenFrames=162=3.24 s
+Preset=0x7b, obj=0x1cf984, pos=(-1440, 1), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x7e, obj=0x1cfa84, pos=(-1440, 192), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x7a, obj=0x1cfb84, pos=(-1440, -191), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=150 => 2.5 s NTSC, 2.9 s PAL, delta = 0.4 s
@@ -147,44 +147,44 @@ Min door delta time = 0.03 s
 
 bunker_1 (NTSC)
 
-Preset=0x8, obj=0x1d14f0, pos=(-1805, 1921), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x9, obj=0x1d15f0, pos=(-1918, 1921), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xa, obj=0x1d16f0, pos=(-1604, 1599), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xb, obj=0x1d17f0, pos=(-1492, 1599), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xc, obj=0x1d18f0, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xd, obj=0x1d19f0, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xe, obj=0x1d1af0, pos=(-1161, 2907), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0xf, obj=0x1d1bf0, pos=(-1161, 2795), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x10, obj=0x1d1cf0, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x11, obj=0x1d1df0, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
+Preset=0x8, obj=0x1d14f0, pos=(-1805, 1921), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x9, obj=0x1d15f0, pos=(-1918, 1921), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xa, obj=0x1d16f0, pos=(-1604, 1599), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xb, obj=0x1d17f0, pos=(-1492, 1599), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xc, obj=0x1d18f0, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xd, obj=0x1d19f0, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xe, obj=0x1d1af0, pos=(-1161, 2907), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0xf, obj=0x1d1bf0, pos=(-1161, 2795), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x10, obj=0x1d1cf0, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x11, obj=0x1d1df0, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
 Preset=0x0, obj=0x1d1ef0, pos=(100, -572), invalid
-Preset=0x1, obj=0x1d1ff0, pos=(62, -558), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x2, obj=0x1d20f0, pos=(23, -543), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
+Preset=0x1, obj=0x1d1ff0, pos=(62, -558), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x2, obj=0x1d20f0, pos=(23, -543), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
 Preset=0x3, obj=0x1d21f0, pos=(-99, -572), invalid
-Preset=0x4, obj=0x1d22f0, pos=(-61, -558), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x5, obj=0x1d23f0, pos=(-23, -543), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x6, obj=0x1d24f0, pos=(0, -2467), ToMaxSpeedFrames=20=0.33 s, OpenFrames=165=2.75 s
+Preset=0x4, obj=0x1d22f0, pos=(-61, -558), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x5, obj=0x1d23f0, pos=(-23, -543), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x6, obj=0x1d24f0, pos=(0, -2467), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=150=2.5 s, OpenFrames=165=2.75 s
 
 
 bunker_1 (PAL)
 
-Preset=0x8, obj=0x1b8880, pos=(-1805, 1921), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x9, obj=0x1b8980, pos=(-1918, 1921), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xa, obj=0x1b8a80, pos=(-1604, 1599), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xb, obj=0x1b8b80, pos=(-1492, 1599), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xc, obj=0x1b8c80, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xd, obj=0x1b8d80, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xe, obj=0x1b8e80, pos=(-1161, 2907), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0xf, obj=0x1b8f80, pos=(-1161, 2795), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x10, obj=0x1b9080, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x11, obj=0x1b9180, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
+Preset=0x8, obj=0x1b8880, pos=(-1805, 1921), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x9, obj=0x1b8980, pos=(-1918, 1921), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xa, obj=0x1b8a80, pos=(-1604, 1599), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xb, obj=0x1b8b80, pos=(-1492, 1599), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xc, obj=0x1b8c80, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xd, obj=0x1b8d80, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xe, obj=0x1b8e80, pos=(-1161, 2907), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0xf, obj=0x1b8f80, pos=(-1161, 2795), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x10, obj=0x1b9080, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x11, obj=0x1b9180, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
 Preset=0x0, obj=0x1b9280, pos=(100, -572), invalid
-Preset=0x1, obj=0x1b9380, pos=(62, -558), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x2, obj=0x1b9480, pos=(23, -543), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
+Preset=0x1, obj=0x1b9380, pos=(62, -558), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x2, obj=0x1b9480, pos=(23, -543), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
 Preset=0x3, obj=0x1b9580, pos=(-99, -572), invalid
-Preset=0x4, obj=0x1b9680, pos=(-61, -558), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x5, obj=0x1b9780, pos=(-23, -543), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x6, obj=0x1b9880, pos=(0, -2467), ToMaxSpeedFrames=20=0.4 s, OpenFrames=141=2.82 s
+Preset=0x4, obj=0x1b9680, pos=(-61, -558), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x5, obj=0x1b9780, pos=(-23, -543), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x6, obj=0x1b9880, pos=(0, -2467), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=125=2.5 s, OpenFrames=141=2.82 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=59 => 0.98 s NTSC, 0.96 s PAL, delta = 0.02 s
@@ -198,86 +198,86 @@ Min door delta time = 0.01 s
 
 bunker_2 (NTSC)
 
-Preset=0x50, obj=0x1d92ac, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x51, obj=0x1d93ac, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x52, obj=0x1d94ac, pos=(-1492, 1604), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x53, obj=0x1d95ac, pos=(-1604, 1604), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x54, obj=0x1d96ac, pos=(-1920, 1919), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x55, obj=0x1d97ac, pos=(-1807, 1919), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x56, obj=0x1d98ac, pos=(-1160, 2906), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x57, obj=0x1d99ac, pos=(-1160, 2794), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x58, obj=0x1d9aac, pos=(-2248, 2906), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x59, obj=0x1d9bac, pos=(-2248, 2794), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5a, obj=0x1d9cac, pos=(-1207, 4758), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5b, obj=0x1d9dac, pos=(-1319, 4758), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5c, obj=0x1d9eac, pos=(527, 2992), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5d, obj=0x1d9fac, pos=(527, 2880), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5e, obj=0x1da0ac, pos=(527, 4861), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5f, obj=0x1da1ac, pos=(527, 4973), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x60, obj=0x1da2ac, pos=(-2205, 4972), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x61, obj=0x1da3ac, pos=(-2205, 4862), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x62, obj=0x1da4ac, pos=(-1091, 4972), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x63, obj=0x1da5ac, pos=(-1091, 4862), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x66, obj=0x1da6ac, pos=(-2352, 2478), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x67, obj=0x1da7ac, pos=(-2463, 2478), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x68, obj=0x1da8ac, pos=(855, 3080), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x69, obj=0x1da9ac, pos=(966, 3080), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x6a, obj=0x1daaac, pos=(855, 4773), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x6b, obj=0x1dabac, pos=(966, 4773), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x6c, obj=0x1dacac, pos=(0, -2467), ToMaxSpeedFrames=20=0.33 s, OpenFrames=165=2.75 s
-Preset=0x64, obj=0x1dadcc, pos=(-3472, 4769), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x65, obj=0x1daedc, pos=(-3051, 4769), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x8, obj=0x1dafdc, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x9, obj=0x1db0dc, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
+Preset=0x50, obj=0x1d92ac, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x51, obj=0x1d93ac, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x52, obj=0x1d94ac, pos=(-1492, 1604), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x53, obj=0x1d95ac, pos=(-1604, 1604), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x54, obj=0x1d96ac, pos=(-1920, 1919), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x55, obj=0x1d97ac, pos=(-1807, 1919), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x56, obj=0x1d98ac, pos=(-1160, 2906), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x57, obj=0x1d99ac, pos=(-1160, 2794), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x58, obj=0x1d9aac, pos=(-2248, 2906), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x59, obj=0x1d9bac, pos=(-2248, 2794), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5a, obj=0x1d9cac, pos=(-1207, 4758), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5b, obj=0x1d9dac, pos=(-1319, 4758), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5c, obj=0x1d9eac, pos=(527, 2992), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5d, obj=0x1d9fac, pos=(527, 2880), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5e, obj=0x1da0ac, pos=(527, 4861), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5f, obj=0x1da1ac, pos=(527, 4973), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x60, obj=0x1da2ac, pos=(-2205, 4972), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x61, obj=0x1da3ac, pos=(-2205, 4862), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x62, obj=0x1da4ac, pos=(-1091, 4972), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x63, obj=0x1da5ac, pos=(-1091, 4862), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x66, obj=0x1da6ac, pos=(-2352, 2478), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x67, obj=0x1da7ac, pos=(-2463, 2478), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x68, obj=0x1da8ac, pos=(855, 3080), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x69, obj=0x1da9ac, pos=(966, 3080), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x6a, obj=0x1daaac, pos=(855, 4773), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x6b, obj=0x1dabac, pos=(966, 4773), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x6c, obj=0x1dacac, pos=(0, -2467), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=150=2.5 s, OpenFrames=165=2.75 s
+Preset=0x64, obj=0x1dadcc, pos=(-3472, 4769), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x65, obj=0x1daedc, pos=(-3051, 4769), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x8, obj=0x1dafdc, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x9, obj=0x1db0dc, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
 Preset=0x0, obj=0x1db1dc, pos=(100, -572), invalid
-Preset=0x1, obj=0x1db2dc, pos=(62, -558), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x2, obj=0x1db3dc, pos=(23, -543), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
+Preset=0x1, obj=0x1db2dc, pos=(62, -558), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x2, obj=0x1db3dc, pos=(23, -543), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
 Preset=0x3, obj=0x1db4dc, pos=(-99, -572), invalid
-Preset=0x4, obj=0x1db5dc, pos=(-61, -558), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x5, obj=0x1db6dc, pos=(-23, -543), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x4a, obj=0x1dc0cc, pos=(-762, 4474), ToMaxSpeedFrames=16=0.27 s, OpenFrames=105=1.75 s
+Preset=0x4, obj=0x1db5dc, pos=(-61, -558), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x5, obj=0x1db6dc, pos=(-23, -543), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x4a, obj=0x1dc0cc, pos=(-762, 4474), ToMaxSpeedFrames=16=0.27 s, StartDecelFrame=90=1.5 s, OpenFrames=105=1.75 s
 
 
 bunker_2 (PAL)
 
-Preset=0x50, obj=0x1c063c, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x51, obj=0x1c073c, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x52, obj=0x1c083c, pos=(-1492, 1604), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x53, obj=0x1c093c, pos=(-1604, 1604), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x54, obj=0x1c0a3c, pos=(-1920, 1919), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x55, obj=0x1c0b3c, pos=(-1807, 1919), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x56, obj=0x1c0c3c, pos=(-1160, 2906), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x57, obj=0x1c0d3c, pos=(-1160, 2794), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x58, obj=0x1c0e3c, pos=(-2248, 2906), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x59, obj=0x1c0f3c, pos=(-2248, 2794), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5a, obj=0x1c103c, pos=(-1207, 4758), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5b, obj=0x1c113c, pos=(-1319, 4758), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5c, obj=0x1c123c, pos=(527, 2992), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5d, obj=0x1c133c, pos=(527, 2880), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5e, obj=0x1c143c, pos=(527, 4861), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5f, obj=0x1c153c, pos=(527, 4973), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x60, obj=0x1c163c, pos=(-2205, 4972), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x61, obj=0x1c173c, pos=(-2205, 4862), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x62, obj=0x1c183c, pos=(-1091, 4972), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x63, obj=0x1c193c, pos=(-1091, 4862), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x66, obj=0x1c1a3c, pos=(-2352, 2478), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x67, obj=0x1c1b3c, pos=(-2463, 2478), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x68, obj=0x1c1c3c, pos=(855, 3080), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x69, obj=0x1c1d3c, pos=(966, 3080), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x6a, obj=0x1c1e3c, pos=(855, 4773), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x6b, obj=0x1c1f3c, pos=(966, 4773), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x6c, obj=0x1c203c, pos=(0, -2467), ToMaxSpeedFrames=20=0.4 s, OpenFrames=141=2.82 s
-Preset=0x64, obj=0x1c215c, pos=(-3472, 4769), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x65, obj=0x1c226c, pos=(-3051, 4769), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x8, obj=0x1c236c, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x9, obj=0x1c246c, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
+Preset=0x50, obj=0x1c063c, pos=(-1492, 1311), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x51, obj=0x1c073c, pos=(-1604, 1311), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x52, obj=0x1c083c, pos=(-1492, 1604), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x53, obj=0x1c093c, pos=(-1604, 1604), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x54, obj=0x1c0a3c, pos=(-1920, 1919), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x55, obj=0x1c0b3c, pos=(-1807, 1919), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x56, obj=0x1c0c3c, pos=(-1160, 2906), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x57, obj=0x1c0d3c, pos=(-1160, 2794), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x58, obj=0x1c0e3c, pos=(-2248, 2906), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x59, obj=0x1c0f3c, pos=(-2248, 2794), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5a, obj=0x1c103c, pos=(-1207, 4758), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5b, obj=0x1c113c, pos=(-1319, 4758), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5c, obj=0x1c123c, pos=(527, 2992), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5d, obj=0x1c133c, pos=(527, 2880), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5e, obj=0x1c143c, pos=(527, 4861), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5f, obj=0x1c153c, pos=(527, 4973), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x60, obj=0x1c163c, pos=(-2205, 4972), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x61, obj=0x1c173c, pos=(-2205, 4862), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x62, obj=0x1c183c, pos=(-1091, 4972), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x63, obj=0x1c193c, pos=(-1091, 4862), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x66, obj=0x1c1a3c, pos=(-2352, 2478), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x67, obj=0x1c1b3c, pos=(-2463, 2478), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x68, obj=0x1c1c3c, pos=(855, 3080), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x69, obj=0x1c1d3c, pos=(966, 3080), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x6a, obj=0x1c1e3c, pos=(855, 4773), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x6b, obj=0x1c1f3c, pos=(966, 4773), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x6c, obj=0x1c203c, pos=(0, -2467), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=125=2.5 s, OpenFrames=141=2.82 s
+Preset=0x64, obj=0x1c215c, pos=(-3472, 4769), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x65, obj=0x1c226c, pos=(-3051, 4769), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x8, obj=0x1c236c, pos=(-1387, 2541), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x9, obj=0x1c246c, pos=(-1387, 2094), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
 Preset=0x0, obj=0x1c256c, pos=(100, -572), invalid
-Preset=0x1, obj=0x1c266c, pos=(62, -558), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x2, obj=0x1c276c, pos=(23, -543), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
+Preset=0x1, obj=0x1c266c, pos=(62, -558), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x2, obj=0x1c276c, pos=(23, -543), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
 Preset=0x3, obj=0x1c286c, pos=(-99, -572), invalid
-Preset=0x4, obj=0x1c296c, pos=(-61, -558), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x5, obj=0x1c2a6c, pos=(-23, -543), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x4a, obj=0x1c345c, pos=(-762, 4474), ToMaxSpeedFrames=16=0.32 s, OpenFrames=90=1.8 s
+Preset=0x4, obj=0x1c296c, pos=(-61, -558), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x5, obj=0x1c2a6c, pos=(-23, -543), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x4a, obj=0x1c345c, pos=(-762, 4474), ToMaxSpeedFrames=16=0.32 s, StartDecelFrame=75=1.5 s, OpenFrames=90=1.8 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=59 => 0.98 s NTSC, 0.96 s PAL, delta = 0.02 s
@@ -292,60 +292,60 @@ Min door delta time = 0.01 s
 
 caverns (NTSC)
 
-Preset=0x59, obj=0x1cc070, pos=(6620, -1754), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5a, obj=0x1cc180, pos=(6419, 918), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5b, obj=0x1cc290, pos=(3250, 1461), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5c, obj=0x1cc3a0, pos=(290, 1137), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5d, obj=0x1cc4b0, pos=(-2203, 2445), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5e, obj=0x1cc5c0, pos=(-4876, -1453), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x5f, obj=0x1cc6d0, pos=(-4622, -5252), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x60, obj=0x1cc7e0, pos=(-2188, -3707), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x61, obj=0x1cc8f0, pos=(33, -3709), ToMaxSpeedFrames=10=0.17 s, OpenFrames=219=3.65 s
-Preset=0x62, obj=0x1cca00, pos=(6387, -1754), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x63, obj=0x1ccb10, pos=(6186, 918), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x64, obj=0x1ccc20, pos=(3483, 1461), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x65, obj=0x1ccd30, pos=(54, 1137), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x66, obj=0x1cce40, pos=(-1970, 2445), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x67, obj=0x1ccf50, pos=(-4643, -1453), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x68, obj=0x1cd060, pos=(-4618, -5526), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x69, obj=0x1cd170, pos=(-2421, -3709), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x6a, obj=0x1cd280, pos=(266, -3709), ToMaxSpeedFrames=6=0.1 s, OpenFrames=215=3.58 s
-Preset=0x6b, obj=0x1cd380, pos=(5416, -980), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x6c, obj=0x1cd480, pos=(5491, -980), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x6d, obj=0x1cd580, pos=(1699, -3467), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x6e, obj=0x1cd680, pos=(1699, -3541), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x6f, obj=0x1cd7b0, pos=(-3959, -5435), ToMaxSpeedFrames=33=0.55 s, OpenFrames=512=8.53 s
-Preset=0x70, obj=0x1cd8c0, pos=(-3959, -2980), ToMaxSpeedFrames=33=0.55 s, OpenFrames=512=8.53 s
-Preset=0x71, obj=0x1cd9d0, pos=(-3731, -3707), ToMaxSpeedFrames=33=0.55 s, OpenFrames=512=8.53 s
+Preset=0x59, obj=0x1cc070, pos=(6620, -1754), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5a, obj=0x1cc180, pos=(6419, 918), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5b, obj=0x1cc290, pos=(3250, 1461), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5c, obj=0x1cc3a0, pos=(290, 1137), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5d, obj=0x1cc4b0, pos=(-2203, 2445), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5e, obj=0x1cc5c0, pos=(-4876, -1453), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x5f, obj=0x1cc6d0, pos=(-4622, -5252), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x60, obj=0x1cc7e0, pos=(-2188, -3707), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x61, obj=0x1cc8f0, pos=(33, -3709), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=210=3.5 s, OpenFrames=219=3.65 s
+Preset=0x62, obj=0x1cca00, pos=(6387, -1754), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x63, obj=0x1ccb10, pos=(6186, 918), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x64, obj=0x1ccc20, pos=(3483, 1461), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x65, obj=0x1ccd30, pos=(54, 1137), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x66, obj=0x1cce40, pos=(-1970, 2445), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x67, obj=0x1ccf50, pos=(-4643, -1453), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x68, obj=0x1cd060, pos=(-4618, -5526), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x69, obj=0x1cd170, pos=(-2421, -3709), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x6a, obj=0x1cd280, pos=(266, -3709), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=210=3.5 s, OpenFrames=215=3.58 s
+Preset=0x6b, obj=0x1cd380, pos=(5416, -980), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x6c, obj=0x1cd480, pos=(5491, -980), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x6d, obj=0x1cd580, pos=(1699, -3467), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x6e, obj=0x1cd680, pos=(1699, -3541), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x6f, obj=0x1cd7b0, pos=(-3959, -5435), ToMaxSpeedFrames=33=0.55 s, StartDecelFrame=482=8.03 s, OpenFrames=512=8.53 s
+Preset=0x70, obj=0x1cd8c0, pos=(-3959, -2980), ToMaxSpeedFrames=33=0.55 s, StartDecelFrame=482=8.03 s, OpenFrames=512=8.53 s
+Preset=0x71, obj=0x1cd9d0, pos=(-3731, -3707), ToMaxSpeedFrames=33=0.55 s, StartDecelFrame=482=8.03 s, OpenFrames=512=8.53 s
 
 
 caverns (PAL)
 
-Preset=0x59, obj=0x1b3400, pos=(6620, -1754), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5a, obj=0x1b3510, pos=(6419, 918), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5b, obj=0x1b3620, pos=(3250, 1461), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5c, obj=0x1b3730, pos=(290, 1137), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5d, obj=0x1b3840, pos=(-2203, 2445), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5e, obj=0x1b3950, pos=(-4876, -1453), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x5f, obj=0x1b3a60, pos=(-4622, -5252), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x60, obj=0x1b3b70, pos=(-2188, -3707), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x61, obj=0x1b3c80, pos=(33, -3709), ToMaxSpeedFrames=10=0.2 s, OpenFrames=184=3.68 s
-Preset=0x62, obj=0x1b3d90, pos=(6387, -1754), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x63, obj=0x1b3ea0, pos=(6186, 918), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x64, obj=0x1b3fb0, pos=(3483, 1461), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x65, obj=0x1b40c0, pos=(54, 1137), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x66, obj=0x1b41d0, pos=(-1970, 2445), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x67, obj=0x1b42e0, pos=(-4643, -1453), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x68, obj=0x1b43f0, pos=(-4618, -5526), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x69, obj=0x1b4500, pos=(-2421, -3709), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x6a, obj=0x1b4610, pos=(266, -3709), ToMaxSpeedFrames=6=0.12 s, OpenFrames=180=3.6 s
-Preset=0x6b, obj=0x1b4710, pos=(5416, -980), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x6c, obj=0x1b4810, pos=(5491, -980), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x6d, obj=0x1b4910, pos=(1699, -3467), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x6e, obj=0x1b4a10, pos=(1699, -3541), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x6f, obj=0x1b4b40, pos=(-3959, -5435), ToMaxSpeedFrames=34=0.68 s, OpenFrames=430=8.6 s
-Preset=0x70, obj=0x1b4c50, pos=(-3959, -2980), ToMaxSpeedFrames=34=0.68 s, OpenFrames=430=8.6 s
-Preset=0x71, obj=0x1b4d60, pos=(-3731, -3707), ToMaxSpeedFrames=34=0.68 s, OpenFrames=430=8.6 s
+Preset=0x59, obj=0x1b3400, pos=(6620, -1754), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5a, obj=0x1b3510, pos=(6419, 918), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5b, obj=0x1b3620, pos=(3250, 1461), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5c, obj=0x1b3730, pos=(290, 1137), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5d, obj=0x1b3840, pos=(-2203, 2445), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5e, obj=0x1b3950, pos=(-4876, -1453), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x5f, obj=0x1b3a60, pos=(-4622, -5252), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x60, obj=0x1b3b70, pos=(-2188, -3707), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x61, obj=0x1b3c80, pos=(33, -3709), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=175=3.5 s, OpenFrames=184=3.68 s
+Preset=0x62, obj=0x1b3d90, pos=(6387, -1754), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x63, obj=0x1b3ea0, pos=(6186, 918), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x64, obj=0x1b3fb0, pos=(3483, 1461), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x65, obj=0x1b40c0, pos=(54, 1137), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x66, obj=0x1b41d0, pos=(-1970, 2445), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x67, obj=0x1b42e0, pos=(-4643, -1453), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x68, obj=0x1b43f0, pos=(-4618, -5526), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x69, obj=0x1b4500, pos=(-2421, -3709), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x6a, obj=0x1b4610, pos=(266, -3709), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=175=3.5 s, OpenFrames=180=3.6 s
+Preset=0x6b, obj=0x1b4710, pos=(5416, -980), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x6c, obj=0x1b4810, pos=(5491, -980), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x6d, obj=0x1b4910, pos=(1699, -3467), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x6e, obj=0x1b4a10, pos=(1699, -3541), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x6f, obj=0x1b4b40, pos=(-3959, -5435), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=402=8.04 s, OpenFrames=430=8.6 s
+Preset=0x70, obj=0x1b4c50, pos=(-3959, -2980), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=402=8.04 s, OpenFrames=430=8.6 s
+Preset=0x71, obj=0x1b4d60, pos=(-3731, -3707), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=402=8.04 s, OpenFrames=430=8.6 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=219 => 3.65 s NTSC, 3.68 s PAL, delta = 0.03 s
@@ -360,46 +360,46 @@ Min door delta time = 0.02 s
 
 control (NTSC)
 
-Preset=0x8f, obj=0x1d88dc, pos=(-1635, -573), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x93, obj=0x1d89ec, pos=(1635, -573), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x94, obj=0x1d8afc, pos=(-2005, -1743), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x90, obj=0x1d8c0c, pos=(-1161, -1090), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x91, obj=0x1d8d0c, pos=(-1044, -1090), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x97, obj=0x1d8e2c, pos=(-1381, -4206), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x98, obj=0x1d8f2c, pos=(-1381, -4280), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x8f, obj=0x1d88dc, pos=(-1635, -573), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x93, obj=0x1d89ec, pos=(1635, -573), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x94, obj=0x1d8afc, pos=(-2005, -1743), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x90, obj=0x1d8c0c, pos=(-1161, -1090), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x91, obj=0x1d8d0c, pos=(-1044, -1090), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x97, obj=0x1d8e2c, pos=(-1381, -4206), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x98, obj=0x1d8f2c, pos=(-1381, -4280), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 Preset=0x99, obj=0x1d904c, pos=(2378, -4068), invalid
 Preset=0x9a, obj=0x1d914c, pos=(2378, -4142), invalid
-Preset=0xa3, obj=0x1d925c, pos=(-3891, -975), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0xa4, obj=0x1d935c, pos=(-3816, -979), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x92, obj=0x1d946c, pos=(1103, -1078), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x95, obj=0x1d957c, pos=(-1377, -2630), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x96, obj=0x1d968c, pos=(-1008, -3174), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x9b, obj=0x1d979c, pos=(1187, -1985), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x9c, obj=0x1d98ac, pos=(-1755, 409), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x9e, obj=0x1d99bc, pos=(-4511, -17), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x9f, obj=0x1d9acc, pos=(-2403, 1051), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0xa3, obj=0x1d925c, pos=(-3891, -975), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0xa4, obj=0x1d935c, pos=(-3816, -979), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x92, obj=0x1d946c, pos=(1103, -1078), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x95, obj=0x1d957c, pos=(-1377, -2630), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x96, obj=0x1d968c, pos=(-1008, -3174), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x9b, obj=0x1d979c, pos=(1187, -1985), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x9c, obj=0x1d98ac, pos=(-1755, 409), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x9e, obj=0x1d99bc, pos=(-4511, -17), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x9f, obj=0x1d9acc, pos=(-2403, 1051), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 
 
 control (PAL)
 
-Preset=0x8f, obj=0x1bfc6c, pos=(-1635, -573), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x93, obj=0x1bfd7c, pos=(1635, -573), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x94, obj=0x1bfe8c, pos=(-2005, -1743), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x90, obj=0x1bff9c, pos=(-1161, -1090), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x91, obj=0x1c009c, pos=(-1044, -1090), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x97, obj=0x1c01bc, pos=(-1381, -4206), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x98, obj=0x1c02bc, pos=(-1381, -4280), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x8f, obj=0x1bfc6c, pos=(-1635, -573), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x93, obj=0x1bfd7c, pos=(1635, -573), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x94, obj=0x1bfe8c, pos=(-2005, -1743), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x90, obj=0x1bff9c, pos=(-1161, -1090), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x91, obj=0x1c009c, pos=(-1044, -1090), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x97, obj=0x1c01bc, pos=(-1381, -4206), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x98, obj=0x1c02bc, pos=(-1381, -4280), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 Preset=0x99, obj=0x1c03dc, pos=(2378, -4068), invalid
 Preset=0x9a, obj=0x1c04dc, pos=(2378, -4142), invalid
-Preset=0xa3, obj=0x1c05ec, pos=(-3891, -975), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0xa4, obj=0x1c06ec, pos=(-3816, -979), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x92, obj=0x1c07fc, pos=(1103, -1078), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x95, obj=0x1c090c, pos=(-1377, -2630), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x96, obj=0x1c0a1c, pos=(-1008, -3174), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x9b, obj=0x1c0b2c, pos=(1187, -1985), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x9c, obj=0x1c0c3c, pos=(-1755, 409), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x9e, obj=0x1c0d4c, pos=(-4511, -17), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x9f, obj=0x1c0e5c, pos=(-2403, 1051), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0xa3, obj=0x1c05ec, pos=(-3891, -975), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0xa4, obj=0x1c06ec, pos=(-3816, -979), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x92, obj=0x1c07fc, pos=(1103, -1078), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x95, obj=0x1c090c, pos=(-1377, -2630), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x96, obj=0x1c0a1c, pos=(-1008, -3174), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x9b, obj=0x1c0b2c, pos=(1187, -1985), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x9c, obj=0x1c0c3c, pos=(-1755, 409), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x9e, obj=0x1c0d4c, pos=(-4511, -17), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x9f, obj=0x1c0e5c, pos=(-2403, 1051), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=150 => 2.5 s NTSC, 2.9 s PAL, delta = 0.4 s
@@ -411,20 +411,20 @@ Min door delta time = 0.4 s
 
 cradle (NTSC)
 
-Preset=0x1, obj=0x1d89dc, pos=(848, 360), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x2, obj=0x1d8aec, pos=(2046, -19), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x3, obj=0x1d8bfc, pos=(-848, -360), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x4, obj=0x1d8d0c, pos=(-2046, 19), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
-Preset=0x5, obj=0x1d8e1c, pos=(-263, -186), ToMaxSpeedFrames=20=0.33 s, OpenFrames=59=0.98 s
+Preset=0x1, obj=0x1d89dc, pos=(848, 360), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x2, obj=0x1d8aec, pos=(2046, -19), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x3, obj=0x1d8bfc, pos=(-848, -360), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x4, obj=0x1d8d0c, pos=(-2046, 19), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
+Preset=0x5, obj=0x1d8e1c, pos=(-263, -186), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=40=0.67 s, OpenFrames=59=0.98 s
 
 
 cradle (PAL)
 
-Preset=0x1, obj=0x1bfd6c, pos=(848, 360), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x2, obj=0x1bfe7c, pos=(2046, -19), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x3, obj=0x1bff8c, pos=(-848, -360), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x4, obj=0x1c009c, pos=(-2046, 19), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
-Preset=0x5, obj=0x1c01ac, pos=(-263, -186), ToMaxSpeedFrames=20=0.4 s, OpenFrames=48=0.96 s
+Preset=0x1, obj=0x1bfd6c, pos=(848, 360), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x2, obj=0x1bfe7c, pos=(2046, -19), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x3, obj=0x1bff8c, pos=(-848, -360), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x4, obj=0x1c009c, pos=(-2046, 19), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
+Preset=0x5, obj=0x1c01ac, pos=(-263, -186), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=33=0.66 s, OpenFrames=48=0.96 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=59 => 0.98 s NTSC, 0.96 s PAL, delta = 0.02 s
@@ -436,46 +436,46 @@ Min door delta time = 0.02 s
 
 dam (NTSC)
 
-Preset=0x6, obj=0x1e6840, pos=(17075, 8722), ToMaxSpeedFrames=12=0.2 s, OpenFrames=330=5.5 s
-Preset=0x9, obj=0x1e6940, pos=(17060, 7821), ToMaxSpeedFrames=12=0.2 s, OpenFrames=330=5.5 s
-Preset=0x13, obj=0x1e7410, pos=(20377, 16884), ToMaxSpeedFrames=12=0.2 s, OpenFrames=330=5.5 s
-Preset=0x15, obj=0x1e7510, pos=(12170, 1427), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0xa, obj=0x1e7610, pos=(12810, 1694), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0xb, obj=0x1e7710, pos=(12651, 1908), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0x14, obj=0x1e78b0, pos=(14624, 2345), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0x12, obj=0x1e7b50, pos=(15632, 2503), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0xc, obj=0x1e7c50, pos=(5457, -3010), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xd, obj=0x1e7d50, pos=(5560, -2971), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xe, obj=0x1e7e50, pos=(-241, -4078), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xf, obj=0x1e7f50, pos=(-134, -4078), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x10, obj=0x1e8050, pos=(-5557, -2972), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x11, obj=0x1e8150, pos=(-5457, -3010), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x3d, obj=0x1e8250, pos=(14622, 2024), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0x3f, obj=0x1e8350, pos=(5546, -3175), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0x41, obj=0x1e8450, pos=(-211, -4297), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
-Preset=0x44, obj=0x1e8550, pos=(-5546, -3175), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
+Preset=0x6, obj=0x1e6840, pos=(17075, 8722), ToMaxSpeedFrames=12=0.2 s, StartDecelFrame=321=5.35 s, OpenFrames=330=5.5 s
+Preset=0x9, obj=0x1e6940, pos=(17060, 7821), ToMaxSpeedFrames=12=0.2 s, StartDecelFrame=321=5.35 s, OpenFrames=330=5.5 s
+Preset=0x13, obj=0x1e7410, pos=(20377, 16884), ToMaxSpeedFrames=12=0.2 s, StartDecelFrame=321=5.35 s, OpenFrames=330=5.5 s
+Preset=0x15, obj=0x1e7510, pos=(12170, 1427), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0xa, obj=0x1e7610, pos=(12810, 1694), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0xb, obj=0x1e7710, pos=(12651, 1908), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0x14, obj=0x1e78b0, pos=(14624, 2345), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0x12, obj=0x1e7b50, pos=(15632, 2503), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0xc, obj=0x1e7c50, pos=(5457, -3010), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xd, obj=0x1e7d50, pos=(5560, -2971), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xe, obj=0x1e7e50, pos=(-241, -4078), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xf, obj=0x1e7f50, pos=(-134, -4078), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x10, obj=0x1e8050, pos=(-5557, -2972), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x11, obj=0x1e8150, pos=(-5457, -3010), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x3d, obj=0x1e8250, pos=(14622, 2024), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0x3f, obj=0x1e8350, pos=(5546, -3175), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0x41, obj=0x1e8450, pos=(-211, -4297), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
+Preset=0x44, obj=0x1e8550, pos=(-5546, -3175), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
 
 
 dam (PAL)
 
-Preset=0x6, obj=0x1cdbd0, pos=(17075, 8722), ToMaxSpeedFrames=12=0.24 s, OpenFrames=277=5.54 s
-Preset=0x9, obj=0x1cdcd0, pos=(17060, 7821), ToMaxSpeedFrames=12=0.24 s, OpenFrames=277=5.54 s
-Preset=0x13, obj=0x1ce7a0, pos=(20377, 16884), ToMaxSpeedFrames=12=0.24 s, OpenFrames=277=5.54 s
-Preset=0x15, obj=0x1ce8a0, pos=(12170, 1427), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0xa, obj=0x1ce9a0, pos=(12810, 1694), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0xb, obj=0x1ceaa0, pos=(12651, 1908), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0x14, obj=0x1cec40, pos=(14624, 2345), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0x12, obj=0x1ceee0, pos=(15632, 2503), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0xc, obj=0x1cefe0, pos=(5457, -3010), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xd, obj=0x1cf0e0, pos=(5560, -2971), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xe, obj=0x1cf1e0, pos=(-241, -4078), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xf, obj=0x1cf2e0, pos=(-134, -4078), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x10, obj=0x1cf3e0, pos=(-5557, -2972), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x11, obj=0x1cf4e0, pos=(-5457, -3010), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x3d, obj=0x1cf5e0, pos=(14622, 2024), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0x3f, obj=0x1cf6e0, pos=(5546, -3175), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0x41, obj=0x1cf7e0, pos=(-211, -4297), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
-Preset=0x44, obj=0x1cf8e0, pos=(-5546, -3175), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
+Preset=0x6, obj=0x1cdbd0, pos=(17075, 8722), ToMaxSpeedFrames=12=0.24 s, StartDecelFrame=268=5.36 s, OpenFrames=277=5.54 s
+Preset=0x9, obj=0x1cdcd0, pos=(17060, 7821), ToMaxSpeedFrames=12=0.24 s, StartDecelFrame=268=5.36 s, OpenFrames=277=5.54 s
+Preset=0x13, obj=0x1ce7a0, pos=(20377, 16884), ToMaxSpeedFrames=12=0.24 s, StartDecelFrame=268=5.36 s, OpenFrames=277=5.54 s
+Preset=0x15, obj=0x1ce8a0, pos=(12170, 1427), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0xa, obj=0x1ce9a0, pos=(12810, 1694), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0xb, obj=0x1ceaa0, pos=(12651, 1908), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0x14, obj=0x1cec40, pos=(14624, 2345), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0x12, obj=0x1ceee0, pos=(15632, 2503), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0xc, obj=0x1cefe0, pos=(5457, -3010), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xd, obj=0x1cf0e0, pos=(5560, -2971), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xe, obj=0x1cf1e0, pos=(-241, -4078), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xf, obj=0x1cf2e0, pos=(-134, -4078), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x10, obj=0x1cf3e0, pos=(-5557, -2972), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x11, obj=0x1cf4e0, pos=(-5457, -3010), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x3d, obj=0x1cf5e0, pos=(14622, 2024), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0x3f, obj=0x1cf6e0, pos=(5546, -3175), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0x41, obj=0x1cf7e0, pos=(-211, -4297), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
+Preset=0x44, obj=0x1cf8e0, pos=(-5546, -3175), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=330 => 5.5 s NTSC, 5.54 s PAL, delta = 0.04 s
@@ -489,58 +489,58 @@ Min door delta time = 0.02 s
 
 depot (NTSC)
 
-Preset=0x32, obj=0x1eb16c, pos=(247, 1057), ToMaxSpeedFrames=16=0.27 s, OpenFrames=105=1.75 s
-Preset=0x19, obj=0x1ed730, pos=(3062, -9698), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1a, obj=0x1ed830, pos=(1139, -9534), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1b, obj=0x1ed930, pos=(2714, -8179), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1c, obj=0x1eda30, pos=(3158, -6009), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1d, obj=0x1edb30, pos=(3158, -5458), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1e, obj=0x1edc30, pos=(3158, -4908), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x1f, obj=0x1edd30, pos=(4311, -3650), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x20, obj=0x1ede30, pos=(510, -4448), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x21, obj=0x1edf30, pos=(-1075, -4448), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x22, obj=0x1ee030, pos=(-2659, -4448), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x23, obj=0x1ee130, pos=(-2981, -3663), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x24, obj=0x1ee230, pos=(-938, -3130), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x25, obj=0x1ee330, pos=(1505, -2714), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x26, obj=0x1ee430, pos=(-1249, 2), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x27, obj=0x1ee530, pos=(-2382, 2), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x28, obj=0x1ee630, pos=(-384, 510), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x2b, obj=0x1ee730, pos=(-622, 1357), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2c, obj=0x1ee830, pos=(-627, 1357), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2d, obj=0x1ee930, pos=(338, 968), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x29, obj=0x1eea30, pos=(1537, -6783), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2a, obj=0x1eeb30, pos=(1757, -6783), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2e, obj=0x1eec40, pos=(-1833, -411), ToMaxSpeedFrames=12=0.2 s, OpenFrames=116=1.93 s
-Preset=0x2f, obj=0x1eed40, pos=(-1682, -411), ToMaxSpeedFrames=12=0.2 s, OpenFrames=116=1.93 s
+Preset=0x32, obj=0x1eb16c, pos=(247, 1057), ToMaxSpeedFrames=16=0.27 s, StartDecelFrame=90=1.5 s, OpenFrames=105=1.75 s
+Preset=0x19, obj=0x1ed730, pos=(3062, -9698), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1a, obj=0x1ed830, pos=(1139, -9534), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1b, obj=0x1ed930, pos=(2714, -8179), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1c, obj=0x1eda30, pos=(3158, -6009), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1d, obj=0x1edb30, pos=(3158, -5458), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1e, obj=0x1edc30, pos=(3158, -4908), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x1f, obj=0x1edd30, pos=(4311, -3650), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x20, obj=0x1ede30, pos=(510, -4448), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x21, obj=0x1edf30, pos=(-1075, -4448), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x22, obj=0x1ee030, pos=(-2659, -4448), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x23, obj=0x1ee130, pos=(-2981, -3663), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x24, obj=0x1ee230, pos=(-938, -3130), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x25, obj=0x1ee330, pos=(1505, -2714), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x26, obj=0x1ee430, pos=(-1249, 2), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x27, obj=0x1ee530, pos=(-2382, 2), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x28, obj=0x1ee630, pos=(-384, 510), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x2b, obj=0x1ee730, pos=(-622, 1357), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2c, obj=0x1ee830, pos=(-627, 1357), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2d, obj=0x1ee930, pos=(338, 968), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x29, obj=0x1eea30, pos=(1537, -6783), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2a, obj=0x1eeb30, pos=(1757, -6783), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2e, obj=0x1eec40, pos=(-1833, -411), ToMaxSpeedFrames=12=0.2 s, StartDecelFrame=107=1.78 s, OpenFrames=116=1.93 s
+Preset=0x2f, obj=0x1eed40, pos=(-1682, -411), ToMaxSpeedFrames=12=0.2 s, StartDecelFrame=107=1.78 s, OpenFrames=116=1.93 s
 
 
 depot (PAL)
 
-Preset=0x32, obj=0x1d24fc, pos=(247, 1057), ToMaxSpeedFrames=16=0.32 s, OpenFrames=90=1.8 s
-Preset=0x19, obj=0x1d4ac0, pos=(3062, -9698), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1a, obj=0x1d4bc0, pos=(1139, -9534), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1b, obj=0x1d4cc0, pos=(2714, -8179), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1c, obj=0x1d4dc0, pos=(3158, -6009), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1d, obj=0x1d4ec0, pos=(3158, -5458), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1e, obj=0x1d4fc0, pos=(3158, -4908), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x1f, obj=0x1d50c0, pos=(4311, -3650), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x20, obj=0x1d51c0, pos=(510, -4448), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x21, obj=0x1d52c0, pos=(-1075, -4448), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x22, obj=0x1d53c0, pos=(-2659, -4448), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x23, obj=0x1d54c0, pos=(-2981, -3663), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x24, obj=0x1d55c0, pos=(-938, -3130), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x25, obj=0x1d56c0, pos=(1505, -2714), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x26, obj=0x1d57c0, pos=(-1249, 2), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x27, obj=0x1d58c0, pos=(-2382, 2), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x28, obj=0x1d59c0, pos=(-384, 510), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x2b, obj=0x1d5ac0, pos=(-622, 1357), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2c, obj=0x1d5bc0, pos=(-627, 1357), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2d, obj=0x1d5cc0, pos=(338, 968), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x29, obj=0x1d5dc0, pos=(1537, -6783), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2a, obj=0x1d5ec0, pos=(1757, -6783), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2e, obj=0x1d5fd0, pos=(-1833, -411), ToMaxSpeedFrames=12=0.24 s, OpenFrames=99=1.98 s
-Preset=0x2f, obj=0x1d60d0, pos=(-1682, -411), ToMaxSpeedFrames=12=0.24 s, OpenFrames=99=1.98 s
+Preset=0x32, obj=0x1d24fc, pos=(247, 1057), ToMaxSpeedFrames=16=0.32 s, StartDecelFrame=75=1.5 s, OpenFrames=90=1.8 s
+Preset=0x19, obj=0x1d4ac0, pos=(3062, -9698), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1a, obj=0x1d4bc0, pos=(1139, -9534), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1b, obj=0x1d4cc0, pos=(2714, -8179), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1c, obj=0x1d4dc0, pos=(3158, -6009), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1d, obj=0x1d4ec0, pos=(3158, -5458), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1e, obj=0x1d4fc0, pos=(3158, -4908), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x1f, obj=0x1d50c0, pos=(4311, -3650), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x20, obj=0x1d51c0, pos=(510, -4448), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x21, obj=0x1d52c0, pos=(-1075, -4448), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x22, obj=0x1d53c0, pos=(-2659, -4448), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x23, obj=0x1d54c0, pos=(-2981, -3663), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x24, obj=0x1d55c0, pos=(-938, -3130), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x25, obj=0x1d56c0, pos=(1505, -2714), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x26, obj=0x1d57c0, pos=(-1249, 2), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x27, obj=0x1d58c0, pos=(-2382, 2), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x28, obj=0x1d59c0, pos=(-384, 510), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x2b, obj=0x1d5ac0, pos=(-622, 1357), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2c, obj=0x1d5bc0, pos=(-627, 1357), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2d, obj=0x1d5cc0, pos=(338, 968), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x29, obj=0x1d5dc0, pos=(1537, -6783), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2a, obj=0x1d5ec0, pos=(1757, -6783), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2e, obj=0x1d5fd0, pos=(-1833, -411), ToMaxSpeedFrames=12=0.24 s, StartDecelFrame=89=1.78 s, OpenFrames=99=1.98 s
+Preset=0x2f, obj=0x1d60d0, pos=(-1682, -411), ToMaxSpeedFrames=12=0.24 s, StartDecelFrame=89=1.78 s, OpenFrames=99=1.98 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=105 => 1.75 s NTSC, 1.8 s PAL, delta = 0.05 s
@@ -555,60 +555,60 @@ Min door delta time = 0.03 s
 
 egyptian (NTSC)
 
-Preset=0x0, obj=0x1cdf10, pos=(2626, 2095), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x1, obj=0x1ce010, pos=(2626, 2095), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x2, obj=0x1ce110, pos=(2626, 1589), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3, obj=0x1ce210, pos=(2626, 1589), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x4, obj=0x1ce310, pos=(966, -3776), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x5, obj=0x1ce410, pos=(1610, -4467), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x6, obj=0x1ce520, pos=(103, 2579), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x7, obj=0x1ce620, pos=(124, 2579), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x8, obj=0x1ce720, pos=(115, 2579), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x9, obj=0x1ce820, pos=(103, 2579), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0xa, obj=0x1ce920, pos=(124, 2579), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x2b, obj=0x1cecb8, pos=(3016, 2233), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x2c, obj=0x1cedb8, pos=(3129, 2327), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x2d, obj=0x1ceeb8, pos=(3129, 2831), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x2e, obj=0x1cefb8, pos=(3016, 2924), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x32, obj=0x1cf0b8, pos=(1905, 2924), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x34, obj=0x1cf1b8, pos=(2136, 2924), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x31, obj=0x1cf2b8, pos=(2020, 2831), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x2f, obj=0x1cf3b8, pos=(1905, 2233), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x33, obj=0x1cf4b8, pos=(2136, 2233), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x30, obj=0x1cf5b8, pos=(2020, 2327), ToMaxSpeedFrames=35=0.58 s, OpenFrames=216=3.6 s
-Preset=0x36, obj=0x1cf8a4, pos=(2501, 2581), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x35, obj=0x1cf9a4, pos=(2577, 2657), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x37, obj=0x1cfaa4, pos=(2577, 2507), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x38, obj=0x1cfba4, pos=(2651, 2581), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x0, obj=0x1cdf10, pos=(2626, 2095), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x1, obj=0x1ce010, pos=(2626, 2095), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x2, obj=0x1ce110, pos=(2626, 1589), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3, obj=0x1ce210, pos=(2626, 1589), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x4, obj=0x1ce310, pos=(966, -3776), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x5, obj=0x1ce410, pos=(1610, -4467), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x6, obj=0x1ce520, pos=(103, 2579), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x7, obj=0x1ce620, pos=(124, 2579), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x8, obj=0x1ce720, pos=(115, 2579), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x9, obj=0x1ce820, pos=(103, 2579), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0xa, obj=0x1ce920, pos=(124, 2579), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x2b, obj=0x1cecb8, pos=(3016, 2233), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x2c, obj=0x1cedb8, pos=(3129, 2327), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x2d, obj=0x1ceeb8, pos=(3129, 2831), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x2e, obj=0x1cefb8, pos=(3016, 2924), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x32, obj=0x1cf0b8, pos=(1905, 2924), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x34, obj=0x1cf1b8, pos=(2136, 2924), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x31, obj=0x1cf2b8, pos=(2020, 2831), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x2f, obj=0x1cf3b8, pos=(1905, 2233), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x33, obj=0x1cf4b8, pos=(2136, 2233), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x30, obj=0x1cf5b8, pos=(2020, 2327), ToMaxSpeedFrames=35=0.58 s, StartDecelFrame=185=3.08 s, OpenFrames=216=3.6 s
+Preset=0x36, obj=0x1cf8a4, pos=(2501, 2581), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x35, obj=0x1cf9a4, pos=(2577, 2657), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x37, obj=0x1cfaa4, pos=(2577, 2507), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x38, obj=0x1cfba4, pos=(2651, 2581), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 
 
 egyptian (PAL)
 
-Preset=0x0, obj=0x1b52a0, pos=(2626, 2095), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x1, obj=0x1b53a0, pos=(2626, 2095), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x2, obj=0x1b54a0, pos=(2626, 1589), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3, obj=0x1b55a0, pos=(2626, 1589), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x4, obj=0x1b56a0, pos=(966, -3776), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x5, obj=0x1b57a0, pos=(1610, -4467), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x6, obj=0x1b58b0, pos=(103, 2579), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x7, obj=0x1b59b0, pos=(124, 2579), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x8, obj=0x1b5ab0, pos=(115, 2579), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x9, obj=0x1b5bb0, pos=(103, 2579), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0xa, obj=0x1b5cb0, pos=(124, 2579), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x2b, obj=0x1b6048, pos=(3016, 2233), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x2c, obj=0x1b6148, pos=(3129, 2327), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x2d, obj=0x1b6248, pos=(3129, 2831), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x2e, obj=0x1b6348, pos=(3016, 2924), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x32, obj=0x1b6448, pos=(1905, 2924), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x34, obj=0x1b6548, pos=(2136, 2924), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x31, obj=0x1b6648, pos=(2020, 2831), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x2f, obj=0x1b6748, pos=(1905, 2233), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x33, obj=0x1b6848, pos=(2136, 2233), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x30, obj=0x1b6948, pos=(2020, 2327), ToMaxSpeedFrames=35=0.7 s, OpenFrames=183=3.66 s
-Preset=0x36, obj=0x1b6c34, pos=(2501, 2581), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x35, obj=0x1b6d34, pos=(2577, 2657), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x37, obj=0x1b6e34, pos=(2577, 2507), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x38, obj=0x1b6f34, pos=(2651, 2581), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x0, obj=0x1b52a0, pos=(2626, 2095), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x1, obj=0x1b53a0, pos=(2626, 2095), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x2, obj=0x1b54a0, pos=(2626, 1589), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3, obj=0x1b55a0, pos=(2626, 1589), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x4, obj=0x1b56a0, pos=(966, -3776), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x5, obj=0x1b57a0, pos=(1610, -4467), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x6, obj=0x1b58b0, pos=(103, 2579), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x7, obj=0x1b59b0, pos=(124, 2579), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x8, obj=0x1b5ab0, pos=(115, 2579), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x9, obj=0x1b5bb0, pos=(103, 2579), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0xa, obj=0x1b5cb0, pos=(124, 2579), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x2b, obj=0x1b6048, pos=(3016, 2233), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x2c, obj=0x1b6148, pos=(3129, 2327), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x2d, obj=0x1b6248, pos=(3129, 2831), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x2e, obj=0x1b6348, pos=(3016, 2924), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x32, obj=0x1b6448, pos=(1905, 2924), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x34, obj=0x1b6548, pos=(2136, 2924), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x31, obj=0x1b6648, pos=(2020, 2831), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x2f, obj=0x1b6748, pos=(1905, 2233), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x33, obj=0x1b6848, pos=(2136, 2233), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x30, obj=0x1b6948, pos=(2020, 2327), ToMaxSpeedFrames=35=0.7 s, StartDecelFrame=154=3.08 s, OpenFrames=183=3.66 s
+Preset=0x36, obj=0x1b6c34, pos=(2501, 2581), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x35, obj=0x1b6d34, pos=(2577, 2657), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x37, obj=0x1b6e34, pos=(2577, 2507), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x38, obj=0x1b6f34, pos=(2651, 2581), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=150 => 2.5 s NTSC, 2.9 s PAL, delta = 0.4 s
@@ -621,102 +621,102 @@ Min door delta time = 0.06 s
 
 facility (NTSC)
 
-Preset=0x42, obj=0x1c640c, pos=(-663, -457), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x43, obj=0x1c650c, pos=(-544, -457), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x44, obj=0x1c660c, pos=(-425, -457), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x45, obj=0x1c670c, pos=(-305, -457), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x46, obj=0x1c680c, pos=(-252, 324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x47, obj=0x1c690c, pos=(-372, 324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x48, obj=0x1c6a0c, pos=(-491, 324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x49, obj=0x1c6b0c, pos=(-610, 324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4a, obj=0x1c6c0c, pos=(-730, 324), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4b, obj=0x1c6d0c, pos=(-193, -159), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4c, obj=0x1c6e0c, pos=(0, 33), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4e, obj=0x1c6f0c, pos=(-100, 119), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x58, obj=0x1c700c, pos=(159, 2119), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x59, obj=0x1c710c, pos=(53, 2119), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5a, obj=0x1c720c, pos=(464, 1893), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5b, obj=0x1c730c, pos=(313, 2218), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4f, obj=0x1c740c, pos=(-757, -353), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x50, obj=0x1c750c, pos=(-863, -353), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x51, obj=0x1c760c, pos=(-757, 591), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x52, obj=0x1c770c, pos=(-863, 591), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x53, obj=0x1c780c, pos=(504, -356), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x54, obj=0x1c790c, pos=(398, -356), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x55, obj=0x1c7a0c, pos=(398, -353), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x56, obj=0x1c7b0c, pos=(504, -353), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x57, obj=0x1c7c0c, pos=(257, 823), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x85, obj=0x1c7d0c, pos=(8022, -5172), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x86, obj=0x1c7e0c, pos=(7916, -5172), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5d, obj=0x1c7f64, pos=(1254, 876), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x71, obj=0x1c81bc, pos=(6342, 1514), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x72, obj=0x1c83ec, pos=(7140, 1328), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x74, obj=0x1c8524, pos=(6342, 252), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x75, obj=0x1c8b84, pos=(8925, 85), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x76, obj=0x1c8c84, pos=(9483, -257), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x77, obj=0x1c8d84, pos=(9024, -358), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x78, obj=0x1c8e84, pos=(7976, -2072), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4d, obj=0x1c8f84, pos=(616, 411), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x5c, obj=0x1c9084, pos=(943, 1322), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x42, obj=0x1c640c, pos=(-663, -457), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x43, obj=0x1c650c, pos=(-544, -457), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x44, obj=0x1c660c, pos=(-425, -457), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x45, obj=0x1c670c, pos=(-305, -457), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x46, obj=0x1c680c, pos=(-252, 324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x47, obj=0x1c690c, pos=(-372, 324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x48, obj=0x1c6a0c, pos=(-491, 324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x49, obj=0x1c6b0c, pos=(-610, 324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4a, obj=0x1c6c0c, pos=(-730, 324), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4b, obj=0x1c6d0c, pos=(-193, -159), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4c, obj=0x1c6e0c, pos=(0, 33), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4e, obj=0x1c6f0c, pos=(-100, 119), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x58, obj=0x1c700c, pos=(159, 2119), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x59, obj=0x1c710c, pos=(53, 2119), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5a, obj=0x1c720c, pos=(464, 1893), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5b, obj=0x1c730c, pos=(313, 2218), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4f, obj=0x1c740c, pos=(-757, -353), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x50, obj=0x1c750c, pos=(-863, -353), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x51, obj=0x1c760c, pos=(-757, 591), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x52, obj=0x1c770c, pos=(-863, 591), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x53, obj=0x1c780c, pos=(504, -356), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x54, obj=0x1c790c, pos=(398, -356), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x55, obj=0x1c7a0c, pos=(398, -353), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x56, obj=0x1c7b0c, pos=(504, -353), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x57, obj=0x1c7c0c, pos=(257, 823), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x85, obj=0x1c7d0c, pos=(8022, -5172), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x86, obj=0x1c7e0c, pos=(7916, -5172), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5d, obj=0x1c7f64, pos=(1254, 876), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x71, obj=0x1c81bc, pos=(6342, 1514), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x72, obj=0x1c83ec, pos=(7140, 1328), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x74, obj=0x1c8524, pos=(6342, 252), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x75, obj=0x1c8b84, pos=(8925, 85), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x76, obj=0x1c8c84, pos=(9483, -257), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x77, obj=0x1c8d84, pos=(9024, -358), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x78, obj=0x1c8e84, pos=(7976, -2072), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4d, obj=0x1c8f84, pos=(616, 411), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x5c, obj=0x1c9084, pos=(943, 1322), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 Preset=0x5e, obj=0x1c9184, pos=(1985, 770), invalid
-Preset=0x5f, obj=0x1c9284, pos=(2736, 1201), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x60, obj=0x1c9384, pos=(3214, 339), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x61, obj=0x1c9484, pos=(3966, 770), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x6b, obj=0x1c9584, pos=(4402, 770), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x6c, obj=0x1c9684, pos=(5213, 770), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x79, obj=0x1c9794, pos=(8288, -2172), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x83, obj=0x1c9894, pos=(7983, -5173), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x84, obj=0x1c9994, pos=(6586, -2550), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
+Preset=0x5f, obj=0x1c9284, pos=(2736, 1201), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x60, obj=0x1c9384, pos=(3214, 339), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x61, obj=0x1c9484, pos=(3966, 770), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x6b, obj=0x1c9584, pos=(4402, 770), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x6c, obj=0x1c9684, pos=(5213, 770), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x79, obj=0x1c9794, pos=(8288, -2172), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x83, obj=0x1c9894, pos=(7983, -5173), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x84, obj=0x1c9994, pos=(6586, -2550), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
 
 
 facility (PAL)
 
-Preset=0x42, obj=0x1ad79c, pos=(-663, -457), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x43, obj=0x1ad89c, pos=(-544, -457), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x44, obj=0x1ad99c, pos=(-425, -457), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x45, obj=0x1ada9c, pos=(-305, -457), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x46, obj=0x1adb9c, pos=(-252, 324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x47, obj=0x1adc9c, pos=(-372, 324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x48, obj=0x1add9c, pos=(-491, 324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x49, obj=0x1ade9c, pos=(-610, 324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4a, obj=0x1adf9c, pos=(-730, 324), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4b, obj=0x1ae09c, pos=(-193, -159), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4c, obj=0x1ae19c, pos=(0, 33), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4e, obj=0x1ae29c, pos=(-100, 119), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x58, obj=0x1ae39c, pos=(159, 2119), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x59, obj=0x1ae49c, pos=(53, 2119), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5a, obj=0x1ae59c, pos=(464, 1893), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5b, obj=0x1ae69c, pos=(313, 2218), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4f, obj=0x1ae79c, pos=(-757, -353), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x50, obj=0x1ae89c, pos=(-863, -353), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x51, obj=0x1ae99c, pos=(-757, 591), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x52, obj=0x1aea9c, pos=(-863, 591), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x53, obj=0x1aeb9c, pos=(504, -356), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x54, obj=0x1aec9c, pos=(398, -356), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x55, obj=0x1aed9c, pos=(398, -353), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x56, obj=0x1aee9c, pos=(504, -353), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x57, obj=0x1aef9c, pos=(257, 823), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x85, obj=0x1af09c, pos=(8022, -5172), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x86, obj=0x1af19c, pos=(7916, -5172), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5d, obj=0x1af2f4, pos=(1254, 876), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x71, obj=0x1af54c, pos=(6342, 1514), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x72, obj=0x1af77c, pos=(7140, 1328), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x74, obj=0x1af8b4, pos=(6342, 252), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x75, obj=0x1aff14, pos=(8925, 85), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x76, obj=0x1b0014, pos=(9483, -257), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x77, obj=0x1b0114, pos=(9024, -358), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x78, obj=0x1b0214, pos=(7976, -2072), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4d, obj=0x1b0314, pos=(616, 411), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x5c, obj=0x1b0414, pos=(943, 1322), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x42, obj=0x1ad79c, pos=(-663, -457), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x43, obj=0x1ad89c, pos=(-544, -457), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x44, obj=0x1ad99c, pos=(-425, -457), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x45, obj=0x1ada9c, pos=(-305, -457), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x46, obj=0x1adb9c, pos=(-252, 324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x47, obj=0x1adc9c, pos=(-372, 324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x48, obj=0x1add9c, pos=(-491, 324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x49, obj=0x1ade9c, pos=(-610, 324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4a, obj=0x1adf9c, pos=(-730, 324), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4b, obj=0x1ae09c, pos=(-193, -159), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4c, obj=0x1ae19c, pos=(0, 33), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4e, obj=0x1ae29c, pos=(-100, 119), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x58, obj=0x1ae39c, pos=(159, 2119), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x59, obj=0x1ae49c, pos=(53, 2119), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5a, obj=0x1ae59c, pos=(464, 1893), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5b, obj=0x1ae69c, pos=(313, 2218), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4f, obj=0x1ae79c, pos=(-757, -353), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x50, obj=0x1ae89c, pos=(-863, -353), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x51, obj=0x1ae99c, pos=(-757, 591), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x52, obj=0x1aea9c, pos=(-863, 591), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x53, obj=0x1aeb9c, pos=(504, -356), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x54, obj=0x1aec9c, pos=(398, -356), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x55, obj=0x1aed9c, pos=(398, -353), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x56, obj=0x1aee9c, pos=(504, -353), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x57, obj=0x1aef9c, pos=(257, 823), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x85, obj=0x1af09c, pos=(8022, -5172), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x86, obj=0x1af19c, pos=(7916, -5172), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5d, obj=0x1af2f4, pos=(1254, 876), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x71, obj=0x1af54c, pos=(6342, 1514), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x72, obj=0x1af77c, pos=(7140, 1328), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x74, obj=0x1af8b4, pos=(6342, 252), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x75, obj=0x1aff14, pos=(8925, 85), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x76, obj=0x1b0014, pos=(9483, -257), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x77, obj=0x1b0114, pos=(9024, -358), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x78, obj=0x1b0214, pos=(7976, -2072), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4d, obj=0x1b0314, pos=(616, 411), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x5c, obj=0x1b0414, pos=(943, 1322), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 Preset=0x5e, obj=0x1b0514, pos=(1985, 770), invalid
-Preset=0x5f, obj=0x1b0614, pos=(2736, 1201), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x60, obj=0x1b0714, pos=(3214, 339), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x61, obj=0x1b0814, pos=(3966, 770), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x6b, obj=0x1b0914, pos=(4402, 770), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x6c, obj=0x1b0a14, pos=(5213, 770), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x79, obj=0x1b0b24, pos=(8288, -2172), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x83, obj=0x1b0c24, pos=(7983, -5173), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x84, obj=0x1b0d24, pos=(6586, -2550), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
+Preset=0x5f, obj=0x1b0614, pos=(2736, 1201), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x60, obj=0x1b0714, pos=(3214, 339), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x61, obj=0x1b0814, pos=(3966, 770), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x6b, obj=0x1b0914, pos=(4402, 770), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x6c, obj=0x1b0a14, pos=(5213, 770), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x79, obj=0x1b0b24, pos=(8288, -2172), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x83, obj=0x1b0c24, pos=(7983, -5173), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x84, obj=0x1b0d24, pos=(6586, -2550), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=39 => 0.65 s NTSC, 0.68 s PAL, delta = 0.03 s
@@ -729,68 +729,68 @@ Min door delta time = 0.03 s
 
 frigate (NTSC)
 
-Preset=0x45, obj=0x1eabc0, pos=(-533, -2071), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x46, obj=0x1eacc0, pos=(-437, -2230), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x47, obj=0x1eadc0, pos=(-533, -2909), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x48, obj=0x1eaec0, pos=(-436, -3497), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x49, obj=0x1eafc0, pos=(-602, -3620), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4a, obj=0x1eb0c0, pos=(-293, -2909), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4b, obj=0x1eb1c0, pos=(-205, -2075), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4c, obj=0x1eb2c0, pos=(-80, -1670), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4d, obj=0x1eb3c0, pos=(-205, -1179), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4e, obj=0x1eb4c0, pos=(205, -1179), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x4f, obj=0x1eb5c0, pos=(-205, -569), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x50, obj=0x1eb6c0, pos=(205, -569), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x51, obj=0x1eb7c0, pos=(-533, -569), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x52, obj=0x1eb8c0, pos=(533, -569), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x53, obj=0x1eb9c0, pos=(602, -3620), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x54, obj=0x1ebac0, pos=(533, -2071), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x55, obj=0x1ebbc0, pos=(533, -2909), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x56, obj=0x1ebcc0, pos=(437, -2807), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x59, obj=0x1ebdc0, pos=(-437, -2854), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5a, obj=0x1ebec0, pos=(273, -3112), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5b, obj=0x1ebfc0, pos=(403, -3620), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5c, obj=0x1ec0c0, pos=(403, -4745), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5d, obj=0x1ec1c0, pos=(437, -2535), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5e, obj=0x1ec2c0, pos=(437, -3623), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x5f, obj=0x1ec3c0, pos=(-602, -3030), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x60, obj=0x1ec4c0, pos=(-437, -3623), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x57, obj=0x1ec5c0, pos=(-597, -157), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x58, obj=0x1ec6c0, pos=(597, -157), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x61, obj=0x1ec8d0, pos=(0, -5649), ToMaxSpeedFrames=6=0.1 s, OpenFrames=125=2.08 s
+Preset=0x45, obj=0x1eabc0, pos=(-533, -2071), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x46, obj=0x1eacc0, pos=(-437, -2230), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x47, obj=0x1eadc0, pos=(-533, -2909), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x48, obj=0x1eaec0, pos=(-436, -3497), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x49, obj=0x1eafc0, pos=(-602, -3620), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4a, obj=0x1eb0c0, pos=(-293, -2909), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4b, obj=0x1eb1c0, pos=(-205, -2075), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4c, obj=0x1eb2c0, pos=(-80, -1670), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4d, obj=0x1eb3c0, pos=(-205, -1179), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4e, obj=0x1eb4c0, pos=(205, -1179), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x4f, obj=0x1eb5c0, pos=(-205, -569), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x50, obj=0x1eb6c0, pos=(205, -569), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x51, obj=0x1eb7c0, pos=(-533, -569), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x52, obj=0x1eb8c0, pos=(533, -569), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x53, obj=0x1eb9c0, pos=(602, -3620), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x54, obj=0x1ebac0, pos=(533, -2071), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x55, obj=0x1ebbc0, pos=(533, -2909), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x56, obj=0x1ebcc0, pos=(437, -2807), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x59, obj=0x1ebdc0, pos=(-437, -2854), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5a, obj=0x1ebec0, pos=(273, -3112), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5b, obj=0x1ebfc0, pos=(403, -3620), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5c, obj=0x1ec0c0, pos=(403, -4745), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5d, obj=0x1ec1c0, pos=(437, -2535), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5e, obj=0x1ec2c0, pos=(437, -3623), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x5f, obj=0x1ec3c0, pos=(-602, -3030), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x60, obj=0x1ec4c0, pos=(-437, -3623), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x57, obj=0x1ec5c0, pos=(-597, -157), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x58, obj=0x1ec6c0, pos=(597, -157), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x61, obj=0x1ec8d0, pos=(0, -5649), ToMaxSpeedFrames=6=0.1 s, StartDecelFrame=120=2 s, OpenFrames=125=2.08 s
 
 
 frigate (PAL)
 
-Preset=0x45, obj=0x1d1f50, pos=(-533, -2071), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x46, obj=0x1d2050, pos=(-437, -2230), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x47, obj=0x1d2150, pos=(-533, -2909), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x48, obj=0x1d2250, pos=(-436, -3497), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x49, obj=0x1d2350, pos=(-602, -3620), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4a, obj=0x1d2450, pos=(-293, -2909), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4b, obj=0x1d2550, pos=(-205, -2075), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4c, obj=0x1d2650, pos=(-80, -1670), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4d, obj=0x1d2750, pos=(-205, -1179), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4e, obj=0x1d2850, pos=(205, -1179), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x4f, obj=0x1d2950, pos=(-205, -569), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x50, obj=0x1d2a50, pos=(205, -569), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x51, obj=0x1d2b50, pos=(-533, -569), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x52, obj=0x1d2c50, pos=(533, -569), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x53, obj=0x1d2d50, pos=(602, -3620), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x54, obj=0x1d2e50, pos=(533, -2071), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x55, obj=0x1d2f50, pos=(533, -2909), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x56, obj=0x1d3050, pos=(437, -2807), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x59, obj=0x1d3150, pos=(-437, -2854), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5a, obj=0x1d3250, pos=(273, -3112), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5b, obj=0x1d3350, pos=(403, -3620), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5c, obj=0x1d3450, pos=(403, -4745), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5d, obj=0x1d3550, pos=(437, -2535), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5e, obj=0x1d3650, pos=(437, -3623), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x5f, obj=0x1d3750, pos=(-602, -3030), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x60, obj=0x1d3850, pos=(-437, -3623), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x57, obj=0x1d3950, pos=(-597, -157), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x58, obj=0x1d3a50, pos=(597, -157), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x61, obj=0x1d3c60, pos=(0, -5649), ToMaxSpeedFrames=6=0.12 s, OpenFrames=105=2.1 s
+Preset=0x45, obj=0x1d1f50, pos=(-533, -2071), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x46, obj=0x1d2050, pos=(-437, -2230), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x47, obj=0x1d2150, pos=(-533, -2909), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x48, obj=0x1d2250, pos=(-436, -3497), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x49, obj=0x1d2350, pos=(-602, -3620), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4a, obj=0x1d2450, pos=(-293, -2909), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4b, obj=0x1d2550, pos=(-205, -2075), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4c, obj=0x1d2650, pos=(-80, -1670), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4d, obj=0x1d2750, pos=(-205, -1179), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4e, obj=0x1d2850, pos=(205, -1179), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x4f, obj=0x1d2950, pos=(-205, -569), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x50, obj=0x1d2a50, pos=(205, -569), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x51, obj=0x1d2b50, pos=(-533, -569), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x52, obj=0x1d2c50, pos=(533, -569), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x53, obj=0x1d2d50, pos=(602, -3620), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x54, obj=0x1d2e50, pos=(533, -2071), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x55, obj=0x1d2f50, pos=(533, -2909), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x56, obj=0x1d3050, pos=(437, -2807), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x59, obj=0x1d3150, pos=(-437, -2854), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5a, obj=0x1d3250, pos=(273, -3112), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5b, obj=0x1d3350, pos=(403, -3620), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5c, obj=0x1d3450, pos=(403, -4745), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5d, obj=0x1d3550, pos=(437, -2535), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5e, obj=0x1d3650, pos=(437, -3623), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x5f, obj=0x1d3750, pos=(-602, -3030), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x60, obj=0x1d3850, pos=(-437, -3623), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x57, obj=0x1d3950, pos=(-597, -157), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x58, obj=0x1d3a50, pos=(597, -157), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x61, obj=0x1d3c60, pos=(0, -5649), ToMaxSpeedFrames=6=0.12 s, StartDecelFrame=100=2 s, OpenFrames=105=2.1 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=39 => 0.65 s NTSC, 0.68 s PAL, delta = 0.03 s
@@ -803,14 +803,14 @@ Min door delta time = 0.02 s
 
 jungle (NTSC)
 
-Preset=0x0, obj=0x1b5718, pos=(18528, -2788), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x1, obj=0x1b5818, pos=(18528, -2915), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
+Preset=0x0, obj=0x1b5718, pos=(18528, -2788), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x1, obj=0x1b5818, pos=(18528, -2915), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
 
 
 jungle (PAL)
 
-Preset=0x0, obj=0x19caa8, pos=(18528, -2788), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x1, obj=0x19cba8, pos=(18528, -2915), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
+Preset=0x0, obj=0x19caa8, pos=(18528, -2788), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x1, obj=0x19cba8, pos=(18528, -2915), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=93 => 1.55 s NTSC, 1.66 s PAL, delta = 0.11 s
@@ -822,22 +822,22 @@ Min door delta time = 0.11 s
 
 runway (NTSC)
 
-Preset=0x6, obj=0x1db124, pos=(7714, -5012), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x7, obj=0x1db224, pos=(7535, -5012), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0xa, obj=0x1db34c, pos=(5665, -6949), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x8, obj=0x1db44c, pos=(8087, -5821), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0x9, obj=0x1db54c, pos=(7267, -5822), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
-Preset=0xb, obj=0x1db674, pos=(6575, -5370), ToMaxSpeedFrames=49=0.82 s, OpenFrames=171=2.85 s
+Preset=0x6, obj=0x1db124, pos=(7714, -5012), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x7, obj=0x1db224, pos=(7535, -5012), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0xa, obj=0x1db34c, pos=(5665, -6949), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x8, obj=0x1db44c, pos=(8087, -5821), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0x9, obj=0x1db54c, pos=(7267, -5822), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
+Preset=0xb, obj=0x1db674, pos=(6575, -5370), ToMaxSpeedFrames=49=0.82 s, StartDecelFrame=133=2.22 s, OpenFrames=171=2.85 s
 
 
 runway (PAL)
 
-Preset=0x6, obj=0x1c24b4, pos=(7714, -5012), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x7, obj=0x1c25b4, pos=(7535, -5012), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0xa, obj=0x1c26dc, pos=(5665, -6949), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x8, obj=0x1c27dc, pos=(8087, -5821), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0x9, obj=0x1c28dc, pos=(7267, -5822), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
-Preset=0xb, obj=0x1c2a04, pos=(6575, -5370), ToMaxSpeedFrames=49=0.98 s, OpenFrames=153=3.06 s
+Preset=0x6, obj=0x1c24b4, pos=(7714, -5012), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x7, obj=0x1c25b4, pos=(7535, -5012), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0xa, obj=0x1c26dc, pos=(5665, -6949), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x8, obj=0x1c27dc, pos=(8087, -5821), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0x9, obj=0x1c28dc, pos=(7267, -5822), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
+Preset=0xb, obj=0x1c2a04, pos=(6575, -5370), ToMaxSpeedFrames=49=0.98 s, StartDecelFrame=111=2.22 s, OpenFrames=153=3.06 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=39 => 0.65 s NTSC, 0.68 s PAL, delta = 0.03 s
@@ -850,76 +850,76 @@ Min door delta time = 0.03 s
 
 silo (NTSC)
 
-Preset=0x32, obj=0x1c974c, pos=(-39, 3162), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x33, obj=0x1c984c, pos=(1315, 4977), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x34, obj=0x1c994c, pos=(1315, 3912), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x36, obj=0x1c9a4c, pos=(-474, 2727), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x37, obj=0x1c9b4c, pos=(395, 2727), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x38, obj=0x1c9c4c, pos=(-39, 2291), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x39, obj=0x1c9d4c, pos=(3103, 2727), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3a, obj=0x1c9e4c, pos=(4917, 1373), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3b, obj=0x1c9f4c, pos=(3852, 1373), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3c, obj=0x1ca04c, pos=(2232, 2726), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3d, obj=0x1ca14c, pos=(3102, 2727), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3e, obj=0x1ca24c, pos=(2667, 2291), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x3f, obj=0x1ca34c, pos=(2667, -414), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x40, obj=0x1ca44c, pos=(1314, -2229), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x41, obj=0x1ca54c, pos=(1314, -1163), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x42, obj=0x1ca64c, pos=(2667, 456), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x45, obj=0x1ca74c, pos=(2232, 20), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x46, obj=0x1ca84c, pos=(-474, 20), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x47, obj=0x1ca94c, pos=(-2288, 1373), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x48, obj=0x1caa4c, pos=(-1223, 1373), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x49, obj=0x1cab5c, pos=(-39, 456), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x4a, obj=0x1cac6c, pos=(396, 20), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x4b, obj=0x1cad6c, pos=(396, 20), ToMaxSpeedFrames=70=1.17 s, OpenFrames=150=2.5 s
-Preset=0x4c, obj=0x1cae6c, pos=(1924, -17), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x4d, obj=0x1caf6c, pos=(1872, -17), ToMaxSpeedFrames=34=0.57 s, OpenFrames=93=1.55 s
-Preset=0x4e, obj=0x1cb09c, pos=(205, 313), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x4f, obj=0x1cb19c, pos=(122, 313), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x50, obj=0x1cb2ac, pos=(2463, -226), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x51, obj=0x1cb3ac, pos=(2382, -226), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x52, obj=0x1cb4bc, pos=(2971, 2964), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x53, obj=0x1cb5bc, pos=(2890, 2964), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x54, obj=0x1cb6cc, pos=(143, 2406), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
-Preset=0x55, obj=0x1cb7cc, pos=(63, 2406), ToMaxSpeedFrames=81=1.35 s, OpenFrames=479=7.98 s
+Preset=0x32, obj=0x1c974c, pos=(-39, 3162), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x33, obj=0x1c984c, pos=(1315, 4977), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x34, obj=0x1c994c, pos=(1315, 3912), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x36, obj=0x1c9a4c, pos=(-474, 2727), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x37, obj=0x1c9b4c, pos=(395, 2727), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x38, obj=0x1c9c4c, pos=(-39, 2291), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x39, obj=0x1c9d4c, pos=(3103, 2727), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3a, obj=0x1c9e4c, pos=(4917, 1373), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3b, obj=0x1c9f4c, pos=(3852, 1373), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3c, obj=0x1ca04c, pos=(2232, 2726), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3d, obj=0x1ca14c, pos=(3102, 2727), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3e, obj=0x1ca24c, pos=(2667, 2291), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x3f, obj=0x1ca34c, pos=(2667, -414), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x40, obj=0x1ca44c, pos=(1314, -2229), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x41, obj=0x1ca54c, pos=(1314, -1163), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x42, obj=0x1ca64c, pos=(2667, 456), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x45, obj=0x1ca74c, pos=(2232, 20), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x46, obj=0x1ca84c, pos=(-474, 20), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x47, obj=0x1ca94c, pos=(-2288, 1373), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x48, obj=0x1caa4c, pos=(-1223, 1373), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x49, obj=0x1cab5c, pos=(-39, 456), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x4a, obj=0x1cac6c, pos=(396, 20), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x4b, obj=0x1cad6c, pos=(396, 20), ToMaxSpeedFrames=70=1.17 s, StartDecelFrame=92=1.53 s, OpenFrames=150=2.5 s
+Preset=0x4c, obj=0x1cae6c, pos=(1924, -17), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x4d, obj=0x1caf6c, pos=(1872, -17), ToMaxSpeedFrames=34=0.57 s, StartDecelFrame=60=1 s, OpenFrames=93=1.55 s
+Preset=0x4e, obj=0x1cb09c, pos=(205, 313), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x4f, obj=0x1cb19c, pos=(122, 313), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x50, obj=0x1cb2ac, pos=(2463, -226), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x51, obj=0x1cb3ac, pos=(2382, -226), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x52, obj=0x1cb4bc, pos=(2971, 2964), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x53, obj=0x1cb5bc, pos=(2890, 2964), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x54, obj=0x1cb6cc, pos=(143, 2406), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
+Preset=0x55, obj=0x1cb7cc, pos=(63, 2406), ToMaxSpeedFrames=81=1.35 s, StartDecelFrame=402=6.7 s, OpenFrames=479=7.98 s
 
 
 silo (PAL)
 
-Preset=0x32, obj=0x1b0adc, pos=(-39, 3162), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x33, obj=0x1b0bdc, pos=(1315, 4977), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x34, obj=0x1b0cdc, pos=(1315, 3912), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x36, obj=0x1b0ddc, pos=(-474, 2727), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x37, obj=0x1b0edc, pos=(395, 2727), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x38, obj=0x1b0fdc, pos=(-39, 2291), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x39, obj=0x1b10dc, pos=(3103, 2727), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3a, obj=0x1b11dc, pos=(4917, 1373), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3b, obj=0x1b12dc, pos=(3852, 1373), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3c, obj=0x1b13dc, pos=(2232, 2726), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3d, obj=0x1b14dc, pos=(3102, 2727), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3e, obj=0x1b15dc, pos=(2667, 2291), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x3f, obj=0x1b16dc, pos=(2667, -414), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x40, obj=0x1b17dc, pos=(1314, -2229), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x41, obj=0x1b18dc, pos=(1314, -1163), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x42, obj=0x1b19dc, pos=(2667, 456), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x45, obj=0x1b1adc, pos=(2232, 20), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x46, obj=0x1b1bdc, pos=(-474, 20), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x47, obj=0x1b1cdc, pos=(-2288, 1373), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x48, obj=0x1b1ddc, pos=(-1223, 1373), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x49, obj=0x1b1eec, pos=(-39, 456), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x4a, obj=0x1b1ffc, pos=(396, 20), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x4b, obj=0x1b20fc, pos=(396, 20), ToMaxSpeedFrames=70=1.4 s, OpenFrames=145=2.9 s
-Preset=0x4c, obj=0x1b21fc, pos=(1924, -17), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x4d, obj=0x1b22fc, pos=(1872, -17), ToMaxSpeedFrames=34=0.68 s, OpenFrames=83=1.66 s
-Preset=0x4e, obj=0x1b242c, pos=(205, 313), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x4f, obj=0x1b252c, pos=(122, 313), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x50, obj=0x1b263c, pos=(2463, -226), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x51, obj=0x1b273c, pos=(2382, -226), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x52, obj=0x1b284c, pos=(2971, 2964), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x53, obj=0x1b294c, pos=(2890, 2964), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x54, obj=0x1b2a5c, pos=(143, 2406), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
-Preset=0x55, obj=0x1b2b5c, pos=(63, 2406), ToMaxSpeedFrames=81=1.62 s, OpenFrames=412=8.24 s
+Preset=0x32, obj=0x1b0adc, pos=(-39, 3162), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x33, obj=0x1b0bdc, pos=(1315, 4977), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x34, obj=0x1b0cdc, pos=(1315, 3912), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x36, obj=0x1b0ddc, pos=(-474, 2727), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x37, obj=0x1b0edc, pos=(395, 2727), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x38, obj=0x1b0fdc, pos=(-39, 2291), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x39, obj=0x1b10dc, pos=(3103, 2727), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3a, obj=0x1b11dc, pos=(4917, 1373), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3b, obj=0x1b12dc, pos=(3852, 1373), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3c, obj=0x1b13dc, pos=(2232, 2726), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3d, obj=0x1b14dc, pos=(3102, 2727), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3e, obj=0x1b15dc, pos=(2667, 2291), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x3f, obj=0x1b16dc, pos=(2667, -414), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x40, obj=0x1b17dc, pos=(1314, -2229), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x41, obj=0x1b18dc, pos=(1314, -1163), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x42, obj=0x1b19dc, pos=(2667, 456), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x45, obj=0x1b1adc, pos=(2232, 20), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x46, obj=0x1b1bdc, pos=(-474, 20), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x47, obj=0x1b1cdc, pos=(-2288, 1373), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x48, obj=0x1b1ddc, pos=(-1223, 1373), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x49, obj=0x1b1eec, pos=(-39, 456), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x4a, obj=0x1b1ffc, pos=(396, 20), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x4b, obj=0x1b20fc, pos=(396, 20), ToMaxSpeedFrames=70=1.4 s, StartDecelFrame=77=1.54 s, OpenFrames=145=2.9 s
+Preset=0x4c, obj=0x1b21fc, pos=(1924, -17), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x4d, obj=0x1b22fc, pos=(1872, -17), ToMaxSpeedFrames=34=0.68 s, StartDecelFrame=50=1 s, OpenFrames=83=1.66 s
+Preset=0x4e, obj=0x1b242c, pos=(205, 313), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x4f, obj=0x1b252c, pos=(122, 313), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x50, obj=0x1b263c, pos=(2463, -226), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x51, obj=0x1b273c, pos=(2382, -226), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x52, obj=0x1b284c, pos=(2971, 2964), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x53, obj=0x1b294c, pos=(2890, 2964), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x54, obj=0x1b2a5c, pos=(143, 2406), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
+Preset=0x55, obj=0x1b2b5c, pos=(63, 2406), ToMaxSpeedFrames=81=1.62 s, StartDecelFrame=335=6.7 s, OpenFrames=412=8.24 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=150 => 2.5 s NTSC, 2.9 s PAL, delta = 0.4 s
@@ -933,14 +933,14 @@ Min door delta time = 0.11 s
 
 statue (NTSC)
 
-Preset=0x5, obj=0x1e0568, pos=(-19514, 4990), ToMaxSpeedFrames=10=0.17 s, OpenFrames=84=1.4 s
-Preset=0x6, obj=0x1e0668, pos=(-19407, 5317), ToMaxSpeedFrames=10=0.17 s, OpenFrames=84=1.4 s
+Preset=0x5, obj=0x1e0568, pos=(-19514, 4990), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=75=1.25 s, OpenFrames=84=1.4 s
+Preset=0x6, obj=0x1e0668, pos=(-19407, 5317), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=75=1.25 s, OpenFrames=84=1.4 s
 
 
 statue (PAL)
 
-Preset=0x5, obj=0x1c78f8, pos=(-19514, 4990), ToMaxSpeedFrames=10=0.2 s, OpenFrames=69=1.38 s
-Preset=0x6, obj=0x1c79f8, pos=(-19407, 5317), ToMaxSpeedFrames=10=0.2 s, OpenFrames=69=1.38 s
+Preset=0x5, obj=0x1c78f8, pos=(-19514, 4990), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=63=1.26 s, OpenFrames=69=1.38 s
+Preset=0x6, obj=0x1c79f8, pos=(-19407, 5317), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=63=1.26 s, OpenFrames=69=1.38 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=84 => 1.4 s NTSC, 1.38 s PAL, delta = 0.02 s
@@ -966,42 +966,42 @@ Min door delta time = 79228162514264337593543950335 s
 
 surface_1 (NTSC)
 
-Preset=0x4a, obj=0x1de80c, pos=(5348, -18796), ToMaxSpeedFrames=16=0.27 s, OpenFrames=105=1.75 s
-Preset=0x21, obj=0x1e0810, pos=(6350, -19254), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x22, obj=0x1e0910, pos=(5499, -18162), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x23, obj=0x1e0a10, pos=(8284, -15651), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x24, obj=0x1e0b10, pos=(9388, -15559), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x25, obj=0x1e0c10, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x26, obj=0x1e0d10, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x27, obj=0x1e0e10, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x28, obj=0x1e0f10, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2c, obj=0x1e1010, pos=(2436, -10818), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2d, obj=0x1e1110, pos=(1715, -11067), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2e, obj=0x1e1210, pos=(2170, -11183), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2a, obj=0x1e1310, pos=(2432, -10815), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2b, obj=0x1e1410, pos=(2523, -10815), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x6, obj=0x1e1520, pos=(0, -8), ToMaxSpeedFrames=20=0.33 s, OpenFrames=165=2.75 s
-Preset=0x30, obj=0x1e1630, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
+Preset=0x4a, obj=0x1de80c, pos=(5348, -18796), ToMaxSpeedFrames=16=0.27 s, StartDecelFrame=90=1.5 s, OpenFrames=105=1.75 s
+Preset=0x21, obj=0x1e0810, pos=(6350, -19254), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x22, obj=0x1e0910, pos=(5499, -18162), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x23, obj=0x1e0a10, pos=(8284, -15651), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x24, obj=0x1e0b10, pos=(9388, -15559), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x25, obj=0x1e0c10, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x26, obj=0x1e0d10, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x27, obj=0x1e0e10, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x28, obj=0x1e0f10, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2c, obj=0x1e1010, pos=(2436, -10818), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2d, obj=0x1e1110, pos=(1715, -11067), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2e, obj=0x1e1210, pos=(2170, -11183), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2a, obj=0x1e1310, pos=(2432, -10815), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2b, obj=0x1e1410, pos=(2523, -10815), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x6, obj=0x1e1520, pos=(0, -8), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=150=2.5 s, OpenFrames=165=2.75 s
+Preset=0x30, obj=0x1e1630, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
 
 
 surface_1 (PAL)
 
-Preset=0x4a, obj=0x1c5b9c, pos=(5348, -18796), ToMaxSpeedFrames=16=0.32 s, OpenFrames=90=1.8 s
-Preset=0x21, obj=0x1c7ba0, pos=(6350, -19254), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x22, obj=0x1c7ca0, pos=(5499, -18162), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x23, obj=0x1c7da0, pos=(8284, -15651), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x24, obj=0x1c7ea0, pos=(9388, -15559), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x25, obj=0x1c7fa0, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x26, obj=0x1c80a0, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x27, obj=0x1c81a0, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x28, obj=0x1c82a0, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2c, obj=0x1c83a0, pos=(2436, -10818), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2d, obj=0x1c84a0, pos=(1715, -11067), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2e, obj=0x1c85a0, pos=(2170, -11183), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2a, obj=0x1c86a0, pos=(2432, -10815), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2b, obj=0x1c87a0, pos=(2523, -10815), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x6, obj=0x1c88b0, pos=(0, -8), ToMaxSpeedFrames=20=0.4 s, OpenFrames=141=2.82 s
-Preset=0x30, obj=0x1c89c0, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
+Preset=0x4a, obj=0x1c5b9c, pos=(5348, -18796), ToMaxSpeedFrames=16=0.32 s, StartDecelFrame=75=1.5 s, OpenFrames=90=1.8 s
+Preset=0x21, obj=0x1c7ba0, pos=(6350, -19254), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x22, obj=0x1c7ca0, pos=(5499, -18162), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x23, obj=0x1c7da0, pos=(8284, -15651), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x24, obj=0x1c7ea0, pos=(9388, -15559), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x25, obj=0x1c7fa0, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x26, obj=0x1c80a0, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x27, obj=0x1c81a0, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x28, obj=0x1c82a0, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2c, obj=0x1c83a0, pos=(2436, -10818), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2d, obj=0x1c84a0, pos=(1715, -11067), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2e, obj=0x1c85a0, pos=(2170, -11183), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2a, obj=0x1c86a0, pos=(2432, -10815), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2b, obj=0x1c87a0, pos=(2523, -10815), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x6, obj=0x1c88b0, pos=(0, -8), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=125=2.5 s, OpenFrames=141=2.82 s
+Preset=0x30, obj=0x1c89c0, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=105 => 1.75 s NTSC, 1.8 s PAL, delta = 0.05 s
@@ -1016,52 +1016,52 @@ Min door delta time = 0.00 s
 
 surface_2 (NTSC)
 
-Preset=0x34, obj=0x1ea900, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
-Preset=0x26, obj=0x1eb7b0, pos=(6350, -19254), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x27, obj=0x1eb8b0, pos=(5499, -18162), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x28, obj=0x1eb9b0, pos=(8284, -15651), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x29, obj=0x1ebab0, pos=(9388, -15559), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2a, obj=0x1ebbb0, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2b, obj=0x1ebcb0, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2c, obj=0x1ebdb0, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2d, obj=0x1ebeb0, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x30, obj=0x1ebfb0, pos=(2436, -10828), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x31, obj=0x1ec0b0, pos=(1715, -11076), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x32, obj=0x1ec1b0, pos=(2169, -11183), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2e, obj=0x1ec2b0, pos=(2432, -10825), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x2f, obj=0x1ec3b0, pos=(2523, -10825), ToMaxSpeedFrames=10=0.17 s, OpenFrames=39=0.65 s
-Preset=0x6, obj=0x1ec4b0, pos=(0, -8), ToMaxSpeedFrames=20=0.33 s, OpenFrames=165=2.75 s
+Preset=0x34, obj=0x1ea900, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
+Preset=0x26, obj=0x1eb7b0, pos=(6350, -19254), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x27, obj=0x1eb8b0, pos=(5499, -18162), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x28, obj=0x1eb9b0, pos=(8284, -15651), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x29, obj=0x1ebab0, pos=(9388, -15559), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2a, obj=0x1ebbb0, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2b, obj=0x1ebcb0, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2c, obj=0x1ebdb0, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2d, obj=0x1ebeb0, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x30, obj=0x1ebfb0, pos=(2436, -10828), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x31, obj=0x1ec0b0, pos=(1715, -11076), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x32, obj=0x1ec1b0, pos=(2169, -11183), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2e, obj=0x1ec2b0, pos=(2432, -10825), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x2f, obj=0x1ec3b0, pos=(2523, -10825), ToMaxSpeedFrames=10=0.17 s, StartDecelFrame=30=0.5 s, OpenFrames=39=0.65 s
+Preset=0x6, obj=0x1ec4b0, pos=(0, -8), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=150=2.5 s, OpenFrames=165=2.75 s
 Preset=0x7, obj=0x1ec5c0, pos=(-116, -2204), invalid
-Preset=0x8, obj=0x1ec6c0, pos=(-71, -2221), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0x9, obj=0x1ec7c0, pos=(-26, -2237), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
+Preset=0x8, obj=0x1ec6c0, pos=(-71, -2221), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0x9, obj=0x1ec7c0, pos=(-26, -2237), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
 Preset=0xa, obj=0x1ec8c0, pos=(115, -2204), invalid
-Preset=0xb, obj=0x1ec9c0, pos=(70, -2221), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
-Preset=0xc, obj=0x1ecac0, pos=(26, -2237), ToMaxSpeedFrames=20=0.33 s, OpenFrames=99=1.65 s
+Preset=0xb, obj=0x1ec9c0, pos=(70, -2221), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
+Preset=0xc, obj=0x1ecac0, pos=(26, -2237), ToMaxSpeedFrames=20=0.33 s, StartDecelFrame=80=1.33 s, OpenFrames=99=1.65 s
 
 
 surface_2 (PAL)
 
-Preset=0x34, obj=0x1d1c90, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
-Preset=0x26, obj=0x1d2b40, pos=(6350, -19254), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x27, obj=0x1d2c40, pos=(5499, -18162), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x28, obj=0x1d2d40, pos=(8284, -15651), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x29, obj=0x1d2e40, pos=(9388, -15559), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2a, obj=0x1d2f40, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2b, obj=0x1d3040, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2c, obj=0x1d3140, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2d, obj=0x1d3240, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x30, obj=0x1d3340, pos=(2436, -10828), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x31, obj=0x1d3440, pos=(1715, -11076), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x32, obj=0x1d3540, pos=(2169, -11183), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2e, obj=0x1d3640, pos=(2432, -10825), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x2f, obj=0x1d3740, pos=(2523, -10825), ToMaxSpeedFrames=10=0.2 s, OpenFrames=34=0.68 s
-Preset=0x6, obj=0x1d3840, pos=(0, -8), ToMaxSpeedFrames=20=0.4 s, OpenFrames=141=2.82 s
+Preset=0x34, obj=0x1d1c90, pos=(6869, -5613), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
+Preset=0x26, obj=0x1d2b40, pos=(6350, -19254), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x27, obj=0x1d2c40, pos=(5499, -18162), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x28, obj=0x1d2d40, pos=(8284, -15651), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x29, obj=0x1d2e40, pos=(9388, -15559), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2a, obj=0x1d2f40, pos=(-6998, -7966), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2b, obj=0x1d3040, pos=(-7736, -13617), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2c, obj=0x1d3140, pos=(-11555, -14929), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2d, obj=0x1d3240, pos=(-10898, -18821), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x30, obj=0x1d3340, pos=(2436, -10828), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x31, obj=0x1d3440, pos=(1715, -11076), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x32, obj=0x1d3540, pos=(2169, -11183), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2e, obj=0x1d3640, pos=(2432, -10825), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x2f, obj=0x1d3740, pos=(2523, -10825), ToMaxSpeedFrames=10=0.2 s, StartDecelFrame=25=0.5 s, OpenFrames=34=0.68 s
+Preset=0x6, obj=0x1d3840, pos=(0, -8), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=125=2.5 s, OpenFrames=141=2.82 s
 Preset=0x7, obj=0x1d3950, pos=(-116, -2204), invalid
-Preset=0x8, obj=0x1d3a50, pos=(-71, -2221), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0x9, obj=0x1d3b50, pos=(-26, -2237), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
+Preset=0x8, obj=0x1d3a50, pos=(-71, -2221), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0x9, obj=0x1d3b50, pos=(-26, -2237), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
 Preset=0xa, obj=0x1d3c50, pos=(115, -2204), invalid
-Preset=0xb, obj=0x1d3d50, pos=(70, -2221), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
-Preset=0xc, obj=0x1d3e50, pos=(26, -2237), ToMaxSpeedFrames=20=0.4 s, OpenFrames=83=1.66 s
+Preset=0xb, obj=0x1d3d50, pos=(70, -2221), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
+Preset=0xc, obj=0x1d3e50, pos=(26, -2237), ToMaxSpeedFrames=20=0.4 s, StartDecelFrame=67=1.34 s, OpenFrames=83=1.66 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=1 => 0.02 s NTSC, 0.02 s PAL, delta = 0.00 s
@@ -1076,116 +1076,116 @@ Min door delta time = 0.00 s
 
 train (NTSC)
 
-Preset=0x17, obj=0x1c9b9c, pos=(-1424, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x35, obj=0x1c9c9c, pos=(-1544, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x36, obj=0x1c9d9c, pos=(-4394, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x38, obj=0x1c9eac, pos=(-4710, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x43, obj=0x1c9fac, pos=(-4514, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x44, obj=0x1ca0ac, pos=(-7493, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x57, obj=0x1ca1ac, pos=(-7613, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x58, obj=0x1ca2ac, pos=(-10592, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x70, obj=0x1ca3ac, pos=(-10712, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x71, obj=0x1ca4ac, pos=(-13692, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0xa8, obj=0x1ca5ac, pos=(-13811, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x39, obj=0x1ca6bc, pos=(-4963, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3a, obj=0x1ca7bc, pos=(-5223, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3b, obj=0x1ca8cc, pos=(-5482, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3c, obj=0x1ca9cc, pos=(-5742, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3d, obj=0x1caacc, pos=(-6002, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3e, obj=0x1cabdc, pos=(-6261, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x3f, obj=0x1cacdc, pos=(-6521, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x40, obj=0x1caddc, pos=(-6781, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x41, obj=0x1caeec, pos=(-7040, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x42, obj=0x1cafec, pos=(-7297, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x4c, obj=0x1cb0ec, pos=(-7809, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x4d, obj=0x1cb1ec, pos=(-8062, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x4e, obj=0x1cb2fc, pos=(-8322, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x4f, obj=0x1cb3fc, pos=(-8585, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x50, obj=0x1cb4fc, pos=(-8845, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x51, obj=0x1cb5fc, pos=(-9104, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x52, obj=0x1cb70c, pos=(-9364, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x53, obj=0x1cb80c, pos=(-9624, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x54, obj=0x1cb90c, pos=(-9883, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x55, obj=0x1cba0c, pos=(-10143, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x56, obj=0x1cbb0c, pos=(-10396, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x68, obj=0x1cbc1c, pos=(-10913, -191), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x69, obj=0x1cbd1c, pos=(-11238, -302), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6a, obj=0x1cbe1c, pos=(-12084, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6b, obj=0x1cbf1c, pos=(-12320, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6c, obj=0x1cc01c, pos=(-13166, -86), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6d, obj=0x1cc12c, pos=(-13488, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x9c, obj=0x1cc23c, pos=(-14960, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x9d, obj=0x1cc33c, pos=(-16195, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x9e, obj=0x1cc43c, pos=(-16658, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6e, obj=0x1cc54c, pos=(-12154, -269), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0x6f, obj=0x1cc65c, pos=(-12154, -116), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0xa9, obj=0x1cc76c, pos=(-13988, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=21=0.35 s
-Preset=0xa0, obj=0x1cc87c, pos=(-15779, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=43=0.72 s
-Preset=0xa1, obj=0x1cc98c, pos=(-15299, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa2, obj=0x1cca9c, pos=(-15672, -46), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa3, obj=0x1ccbac, pos=(-15519, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa4, obj=0x1cccbc, pos=(-15126, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa5, obj=0x1ccdcc, pos=(-14707, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa6, obj=0x1ccedc, pos=(-14880, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xaa, obj=0x1ccfec, pos=(-14500, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=171=2.85 s
-Preset=0xa7, obj=0x1cd0ec, pos=(-15020, -56), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
+Preset=0x17, obj=0x1c9b9c, pos=(-1424, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x35, obj=0x1c9c9c, pos=(-1544, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x36, obj=0x1c9d9c, pos=(-4394, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x38, obj=0x1c9eac, pos=(-4710, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x43, obj=0x1c9fac, pos=(-4514, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x44, obj=0x1ca0ac, pos=(-7493, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x57, obj=0x1ca1ac, pos=(-7613, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x58, obj=0x1ca2ac, pos=(-10592, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x70, obj=0x1ca3ac, pos=(-10712, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x71, obj=0x1ca4ac, pos=(-13692, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0xa8, obj=0x1ca5ac, pos=(-13811, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x39, obj=0x1ca6bc, pos=(-4963, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3a, obj=0x1ca7bc, pos=(-5223, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3b, obj=0x1ca8cc, pos=(-5482, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3c, obj=0x1ca9cc, pos=(-5742, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3d, obj=0x1caacc, pos=(-6002, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3e, obj=0x1cabdc, pos=(-6261, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x3f, obj=0x1cacdc, pos=(-6521, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x40, obj=0x1caddc, pos=(-6781, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x41, obj=0x1caeec, pos=(-7040, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x42, obj=0x1cafec, pos=(-7297, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x4c, obj=0x1cb0ec, pos=(-7809, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x4d, obj=0x1cb1ec, pos=(-8062, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x4e, obj=0x1cb2fc, pos=(-8322, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x4f, obj=0x1cb3fc, pos=(-8585, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x50, obj=0x1cb4fc, pos=(-8845, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x51, obj=0x1cb5fc, pos=(-9104, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x52, obj=0x1cb70c, pos=(-9364, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x53, obj=0x1cb80c, pos=(-9624, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x54, obj=0x1cb90c, pos=(-9883, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x55, obj=0x1cba0c, pos=(-10143, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x56, obj=0x1cbb0c, pos=(-10396, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x68, obj=0x1cbc1c, pos=(-10913, -191), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x69, obj=0x1cbd1c, pos=(-11238, -302), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6a, obj=0x1cbe1c, pos=(-12084, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6b, obj=0x1cbf1c, pos=(-12320, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6c, obj=0x1cc01c, pos=(-13166, -86), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6d, obj=0x1cc12c, pos=(-13488, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x9c, obj=0x1cc23c, pos=(-14960, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x9d, obj=0x1cc33c, pos=(-16195, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x9e, obj=0x1cc43c, pos=(-16658, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6e, obj=0x1cc54c, pos=(-12154, -269), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0x6f, obj=0x1cc65c, pos=(-12154, -116), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0xa9, obj=0x1cc76c, pos=(-13988, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=21=0.35 s
+Preset=0xa0, obj=0x1cc87c, pos=(-15779, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=43=0.72 s, OpenFrames=43=0.72 s
+Preset=0xa1, obj=0x1cc98c, pos=(-15299, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa2, obj=0x1cca9c, pos=(-15672, -46), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa3, obj=0x1ccbac, pos=(-15519, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa4, obj=0x1cccbc, pos=(-15126, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa5, obj=0x1ccdcc, pos=(-14707, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa6, obj=0x1ccedc, pos=(-14880, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xaa, obj=0x1ccfec, pos=(-14500, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=171=2.85 s
+Preset=0xa7, obj=0x1cd0ec, pos=(-15020, -56), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
 
 
 train (PAL)
 
-Preset=0x17, obj=0x1b0f2c, pos=(-1424, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x35, obj=0x1b102c, pos=(-1544, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x36, obj=0x1b112c, pos=(-4394, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x38, obj=0x1b123c, pos=(-4710, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x43, obj=0x1b133c, pos=(-4514, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x44, obj=0x1b143c, pos=(-7493, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x57, obj=0x1b153c, pos=(-7613, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x58, obj=0x1b163c, pos=(-10592, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x70, obj=0x1b173c, pos=(-10712, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x71, obj=0x1b183c, pos=(-13692, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0xa8, obj=0x1b193c, pos=(-13811, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x39, obj=0x1b1a4c, pos=(-4963, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3a, obj=0x1b1b4c, pos=(-5223, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3b, obj=0x1b1c5c, pos=(-5482, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3c, obj=0x1b1d5c, pos=(-5742, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3d, obj=0x1b1e5c, pos=(-6002, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3e, obj=0x1b1f6c, pos=(-6261, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x3f, obj=0x1b206c, pos=(-6521, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x40, obj=0x1b216c, pos=(-6781, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x41, obj=0x1b227c, pos=(-7040, -259), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x42, obj=0x1b237c, pos=(-7297, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x4c, obj=0x1b247c, pos=(-7809, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x4d, obj=0x1b257c, pos=(-8062, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x4e, obj=0x1b268c, pos=(-8322, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x4f, obj=0x1b278c, pos=(-8585, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x50, obj=0x1b288c, pos=(-8845, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x51, obj=0x1b298c, pos=(-9104, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x52, obj=0x1b2a9c, pos=(-9364, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x53, obj=0x1b2b9c, pos=(-9624, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x54, obj=0x1b2c9c, pos=(-9883, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x55, obj=0x1b2d9c, pos=(-10143, -129), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x56, obj=0x1b2e9c, pos=(-10396, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x68, obj=0x1b2fac, pos=(-10913, -191), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x69, obj=0x1b30ac, pos=(-11238, -302), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6a, obj=0x1b31ac, pos=(-12084, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6b, obj=0x1b32ac, pos=(-12320, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6c, obj=0x1b33ac, pos=(-13166, -86), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6d, obj=0x1b34bc, pos=(-13488, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x9c, obj=0x1b35cc, pos=(-14960, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x9d, obj=0x1b36cc, pos=(-16195, -193), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x9e, obj=0x1b37cc, pos=(-16658, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6e, obj=0x1b38dc, pos=(-12154, -269), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0x6f, obj=0x1b39ec, pos=(-12154, -116), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0xa9, obj=0x1b3afc, pos=(-13988, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=18=0.36 s
-Preset=0xa0, obj=0x1b3c0c, pos=(-15779, -196), ToMaxSpeedFrames=1=0.02 s, OpenFrames=36=0.72 s
-Preset=0xa1, obj=0x1b3d1c, pos=(-15299, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa2, obj=0x1b3e2c, pos=(-15672, -46), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa3, obj=0x1b3f3c, pos=(-15519, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa4, obj=0x1b404c, pos=(-15126, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa5, obj=0x1b415c, pos=(-14707, -286), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa6, obj=0x1b426c, pos=(-14880, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xaa, obj=0x1b437c, pos=(-14500, -26), ToMaxSpeedFrames=1=0.02 s, OpenFrames=143=2.86 s
-Preset=0xa7, obj=0x1b447c, pos=(-15020, -56), ToMaxSpeedFrames=1=0.02 s, OpenFrames=1=0.02 s
+Preset=0x17, obj=0x1b0f2c, pos=(-1424, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x35, obj=0x1b102c, pos=(-1544, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x36, obj=0x1b112c, pos=(-4394, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x38, obj=0x1b123c, pos=(-4710, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x43, obj=0x1b133c, pos=(-4514, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x44, obj=0x1b143c, pos=(-7493, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x57, obj=0x1b153c, pos=(-7613, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x58, obj=0x1b163c, pos=(-10592, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x70, obj=0x1b173c, pos=(-10712, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x71, obj=0x1b183c, pos=(-13692, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0xa8, obj=0x1b193c, pos=(-13811, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x39, obj=0x1b1a4c, pos=(-4963, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3a, obj=0x1b1b4c, pos=(-5223, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3b, obj=0x1b1c5c, pos=(-5482, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3c, obj=0x1b1d5c, pos=(-5742, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3d, obj=0x1b1e5c, pos=(-6002, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3e, obj=0x1b1f6c, pos=(-6261, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x3f, obj=0x1b206c, pos=(-6521, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x40, obj=0x1b216c, pos=(-6781, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x41, obj=0x1b227c, pos=(-7040, -259), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x42, obj=0x1b237c, pos=(-7297, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x4c, obj=0x1b247c, pos=(-7809, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x4d, obj=0x1b257c, pos=(-8062, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x4e, obj=0x1b268c, pos=(-8322, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x4f, obj=0x1b278c, pos=(-8585, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x50, obj=0x1b288c, pos=(-8845, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x51, obj=0x1b298c, pos=(-9104, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x52, obj=0x1b2a9c, pos=(-9364, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x53, obj=0x1b2b9c, pos=(-9624, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x54, obj=0x1b2c9c, pos=(-9883, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x55, obj=0x1b2d9c, pos=(-10143, -129), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x56, obj=0x1b2e9c, pos=(-10396, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x68, obj=0x1b2fac, pos=(-10913, -191), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x69, obj=0x1b30ac, pos=(-11238, -302), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6a, obj=0x1b31ac, pos=(-12084, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6b, obj=0x1b32ac, pos=(-12320, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6c, obj=0x1b33ac, pos=(-13166, -86), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6d, obj=0x1b34bc, pos=(-13488, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x9c, obj=0x1b35cc, pos=(-14960, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x9d, obj=0x1b36cc, pos=(-16195, -193), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x9e, obj=0x1b37cc, pos=(-16658, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6e, obj=0x1b38dc, pos=(-12154, -269), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0x6f, obj=0x1b39ec, pos=(-12154, -116), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0xa9, obj=0x1b3afc, pos=(-13988, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=18=0.36 s, OpenFrames=18=0.36 s
+Preset=0xa0, obj=0x1b3c0c, pos=(-15779, -196), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=36=0.72 s, OpenFrames=36=0.72 s
+Preset=0xa1, obj=0x1b3d1c, pos=(-15299, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa2, obj=0x1b3e2c, pos=(-15672, -46), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa3, obj=0x1b3f3c, pos=(-15519, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa4, obj=0x1b404c, pos=(-15126, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa5, obj=0x1b415c, pos=(-14707, -286), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa6, obj=0x1b426c, pos=(-14880, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xaa, obj=0x1b437c, pos=(-14500, -26), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=143=2.86 s, OpenFrames=143=2.86 s
+Preset=0xa7, obj=0x1b447c, pos=(-15020, -56), ToMaxSpeedFrames=1=0.02 s, StartDecelFrame=0=0 s, OpenFrames=1=0.02 s
 
 Level summary:
 Doors with (NTSC) OpenFrames=43 => 0.72 s NTSC, 0.72 s PAL, delta = 0.00 s
