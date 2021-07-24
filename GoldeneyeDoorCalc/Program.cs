@@ -70,6 +70,13 @@ namespace GoldeneyeDoorCalc
                                     var door = new Door(ldoor);
                                     var locationId = door.GetObjectIdString();
 
+                                    // Uncomment this to check version difference theory.
+                                    //if(version == SystemVersion.PAL)
+                                    //{
+                                    //    door.Acceleration *= 1.2;
+                                    //    door.Deceleration *= 1.2;
+                                    //}
+
                                     if (!seenDoors.Contains(locationId))
                                     {
                                         doors.Add(door);

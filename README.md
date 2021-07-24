@@ -31,7 +31,7 @@ Example level output:
 
 # Technical Details
 
-This program uses configuration data extracted from memory once the level is loaded, using the bizhawk emulator. I extracted the level date for each stage on NTSC then did the same for PAL.
+This program uses configuration data extracted from memory once the level is loaded, using the bizhawk emulator. I extracted the level data for each stage on NTSC then did the same for PAL.
 
 Setup is dumped using a modified version of `dump_map_data.lua` from https://github.com/whiteted-strats/GE_Wiki_Maps to include door configuration options. See my fork at https://github.com/burnsba/GE_Wiki_Maps/blob/master/dump_map_data.lua .
 
